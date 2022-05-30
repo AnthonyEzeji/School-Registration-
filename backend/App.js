@@ -11,7 +11,7 @@ const path = require('path')
 const DB = PROCESS.ENV.DB
 const LoginRoutes = require('./Routes/LoginRoutes')
 const session = require('express-session')
- mongoose.connect(db,{useNewUrlParser: true,
+ mongoose.connect(DB,{useNewUrlParser: true,
 useUnifiedTopology: true }, ()=>console.log('successfully connected to db...'))
 
 const MasterScheduleRoutes = require('./Routes/MasterScheduleRoutes')
