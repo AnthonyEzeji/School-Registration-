@@ -1,0 +1,40 @@
+.users{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+.user-create{
+
+    margin-top: 30px;;
+    display: flex;
+   
+    justify-content: space-around;
+    align-items: center;
+    width: 52vw;
+    height: 80px;
+    
+    background-color:rgb(255, 255, 255);
+}
+.user-create>input{
+margin: 10px;
+height: 50%;
+text-align: center;
+background-color: rgb(11, 33, 82);
+color: white;
+font-size: 14px;
+text-shadow: 1px 1px black;
+}
+#delete-btn{
+    background-color: rgb(11, 33, 82);
+    color: white;
+    width: 52vw;
+    height: fit-content;
+    margin-top: 30px;
+}
+.user-create>Button{
+    background-color: beige;
+}

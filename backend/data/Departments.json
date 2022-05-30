@@ -1,0 +1,65 @@
+[
+ {
+  "Dept_ID": "D001",
+  "Dept_Name": "Biological Sciences",
+  "Building_ID": "B1003",
+  "Office_ID": "CC113",
+  "Chair": "Manya Mascareno",
+  "Phone_Number": "(516)876-2737",
+  "Email": "mascarenom@HogwartsUniversity.edu"
+ },
+ {
+  "Dept_ID": "D002",
+  "Dept_Name": "Chemistry and Physics",
+  "Building_ID": "B1003",
+  "Office_ID": "CC114",
+  "Chair": "Lori Zaikowski",
+  "Phone_Number": "(516)876-2743",
+  "Email": "zaikowskil@HogwartsUniversity.edu"
+ },
+ {
+  "Dept_ID": "D003",
+  "Dept_Name": "English",
+  "Building_ID": "B1001",
+  "Office_ID": "CC115",
+  "Chair": "Margaret Torrell",
+  "Phone_Number": "(516)876-3123",
+  "Email": "torrellm@HogwartsUniversity.edu"
+ },
+ {
+  "Dept_ID": "D004",
+  "Dept_Name": "School of Business",
+  "Building_ID": "B1001",
+  "Office_ID": "CC116",
+  "Chair": "Juan Galvis",
+  "Phone_Number": "516-876-5684",
+  "Email": "galvisj@HogwartsUniversity.edu"
+ },
+ {
+  "Dept_ID": "D005",
+  "Dept_Name": "Mathematics & Computer & Info Science",
+  "Building_ID": "B1001",
+  "Office_ID": "CC117",
+  "Chair": "Frank Sanacory",
+  "Phone_Number": "(516)876-3127",
+  "Email": "sanacoryf@HogwartsUniversity.edu"
+ },
+ {
+  "Dept_ID": "D006",
+  "Dept_Name": "Politics, Economics & Law",
+  "Building_ID": "B1001",
+  "Office_ID": "CC118",
+  "Chair": "Rose Muzio",
+  "Phone_Number": "(516) 628-5591",
+  "Email": "muzior@HogwartsUniversity.edu"
+ },
+ {
+  "Dept_ID": "D007",
+  "Dept_Name": "School of General Studies",
+  "Building_ID": "B1001",
+  "Office_ID": "CC119",
+  "Chair": "Lillian Park",
+  "Phone_Number": "(516)628-5585",
+  "Email": "parkl@HogwartsUniversity.edu"
+ }
+]

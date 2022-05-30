@@ -1,0 +1,138 @@
+[
+ {
+  "Major_ID": "MA001",
+  "Dept_ID": "D001",
+  "Dept_Name": "Biological Studies",
+  "Major_Name": "Biological Sciences, B.S.",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ },
+ {
+  "Major_ID": "MA002",
+  "Dept_ID": "D001",
+  "Dept_Name": "Biological Studies",
+  "Major_Name": "Biological Studies, B.A.",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ },
+ {
+  "Major_ID": "MA003",
+  "Dept_ID": "D002",
+  "Dept_Name": "Chemistry & Physics",
+  "Major_Name": "Biochemistry, B.S.",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ },
+ {
+  "Major_ID": "MA004",
+  "Dept_ID": "D002",
+  "Dept_Name": "Chemistry & Physics",
+  "Major_Name": "Chemistry, B.A.",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ },
+ {
+  "Major_ID": "MA005",
+  "Dept_ID": "D002",
+  "Dept_Name": "Chemistry & Physics",
+  "Major_Name": "Chemistry, B.S.",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ },
+ {
+  "Major_ID": "MA006",
+  "Dept_ID": "D002",
+  "Dept_Name": "Chemistry & Physics",
+  "Major_Name": "Physics, B.S",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ },
+ {
+  "Major_ID": "MA007",
+  "Dept_ID": "D003",
+  "Dept_Name": "English",
+  "Major_Name": "English, B.A.",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ },
+ {
+  "Major_ID": "MA008",
+  "Dept_ID": "D005",
+  "Dept_Name": "Mathematics & Computer & Info Science",
+  "Major_Name": "Computer & Information Science, B.S.",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ },
+ {
+  "Major_ID": "MA009",
+  "Dept_ID": "D005",
+  "Dept_Name": "Mathematics & Computer & Info Science",
+  "Major_Name": "Management Information Systems, B.S.",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ },
+ {
+  "Major_ID": "MA010",
+  "Dept_ID": "D005",
+  "Dept_Name": "Mathematics & Computer & Info Science",
+  "Major_Name": "Mathematics, B.S.",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ },
+ {
+  "Major_ID": "MA011",
+  "Dept_ID": "D005",
+  "Dept_Name": "Mathematics & Computer & Info Science",
+  "Major_Name": "Data Science, M.S.",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ },
+ {
+  "Major_ID": "MA012",
+  "Dept_ID": "D006",
+  "Dept_Name": "Politics, Economics & Law",
+  "Major_Name": "Politics, Economics & Law, B.A.",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ },
+ {
+  "Major_ID": "MA013",
+  "Dept_ID": "D004",
+  "Dept_Name": "School of Business",
+  "Major_Name": "Accounting, B.S.",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ },
+ {
+  "Major_ID": "MA014",
+  "Dept_ID": "D004",
+  "Dept_Name": "School of Business",
+  "Major_Name": "Business Administration, B.S",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ },
+ {
+  "Major_ID": "MA015",
+  "Dept_ID": "D004",
+  "Dept_Name": "School of Business",
+  "Major_Name": "Accounting, M.S.",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ },
+ {
+  "Major_ID": "MA016",
+  "Dept_ID": "D004",
+  "Dept_Name": "School of Business",
+  "Major_Name": "Taxation, M.S.",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ },
+ {
+  "Major_ID": "MA017",
+  "Dept_ID": "D007",
+  "Dept_Name": "School of General Studies",
+  "Major_Name": "General Studies, B.A",
+  "Min_Grade_Required": "C",
+  "Credits_Required": 120
+ }
+]

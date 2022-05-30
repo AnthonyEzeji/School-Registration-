@@ -1,0 +1,38 @@
+[
+ {
+  "HOLD_ID": "HOLD10",
+  "HOLD_NAME": "Academic Probation."
+ },
+ {
+  "HOLD_ID": "HOLD11",
+  "HOLD_NAME": "Non-payment of parking obligations and fines."
+ },
+ {
+  "HOLD_ID": "HOLD12",
+  "HOLD_NAME": "Financial Aid Application incomplete."
+ },
+ {
+  "HOLD_ID": "HOLD13",
+  "HOLD_NAME": "Non-payment of tuition and fees."
+ },
+ {
+  "HOLD_ID": "HOLD14",
+  "HOLD_NAME": "Not returning library books, physical education and other college equipment."
+ },
+ {
+  "HOLD_ID": "HOLD15",
+  "HOLD_NAME": "Not satisfying the measles, mumps, rubella immunization requirement."
+ },
+ {
+  "HOLD_ID": "HOLD16",
+  "HOLD_NAME": "Registration Hold."
+ },
+ {
+  "HOLD_ID": "HOLD17",
+  "HOLD_NAME": "COVID Vaccination: COVID Vaccination - Mandate not met."
+ },
+ {
+  "HOLD_ID": "HOLD18",
+  "HOLD_NAME": "Admissions, Incomplete"
+ }
+]

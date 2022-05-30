@@ -1,0 +1,272 @@
+[
+ {
+  "HOLD_ID": "HOLD10",
+  "Student_ID": 700000936,
+  "HOLD_TYPE": "Academic Probation."
+ },
+ {
+  "HOLD_ID": "HOLD11",
+  "Student_ID": 700000648,
+  "HOLD_TYPE": "Non-payment of parking obligations and fines."
+ },
+ {
+  "HOLD_ID": "HOLD12",
+  "Student_ID": 700001833,
+  "HOLD_TYPE": "Financial Aid Application incomplete."
+ },
+ {
+  "HOLD_ID": "HOLD13",
+  "Student_ID": 700001594,
+  "HOLD_TYPE": "Non-payment of tuition and fees."
+ },
+ {
+  "HOLD_ID": "HOLD14",
+  "Student_ID": 700001620,
+  "HOLD_TYPE": "Not returning library books, physical education and other college equipment."
+ },
+ {
+  "HOLD_ID": "HOLD15",
+  "Student_ID": 700001258,
+  "HOLD_TYPE": "Not satisfying the measles, mumps, rubella immunization requirement."
+ },
+ {
+  "HOLD_ID": "HOLD16",
+  "Student_ID": 700001333,
+  "HOLD_TYPE": "Registration Hold."
+ },
+ {
+  "HOLD_ID": "HOLD17",
+  "Student_ID": 700001096,
+  "HOLD_TYPE": "COVID Vaccination: COVID Vaccination - Mandate not met."
+ },
+ {
+  "HOLD_ID": "HOLD18",
+  "Student_ID": 700001505,
+  "HOLD_TYPE": "Admissions, Incomplete"
+ },
+ {
+  "HOLD_ID": "HOLD10",
+  "Student_ID": 700000855,
+  "HOLD_TYPE": "Academic Probation."
+ },
+ {
+  "HOLD_ID": "HOLD11",
+  "Student_ID": 700000816,
+  "HOLD_TYPE": "Non-payment of parking obligations and fines."
+ },
+ {
+  "HOLD_ID": "HOLD12",
+  "Student_ID": 700001044,
+  "HOLD_TYPE": "Financial Aid Application incomplete."
+ },
+ {
+  "HOLD_ID": "HOLD13",
+  "Student_ID": 700001581,
+  "HOLD_TYPE": "Non-payment of tuition and fees."
+ },
+ {
+  "HOLD_ID": "HOLD14",
+  "Student_ID": 700001188,
+  "HOLD_TYPE": "Not returning library books, physical education and other college equipment."
+ },
+ {
+  "HOLD_ID": "HOLD15",
+  "Student_ID": 700001969,
+  "HOLD_TYPE": "Not satisfying the measles, mumps, rubella immunization requirement."
+ },
+ {
+  "HOLD_ID": "HOLD16",
+  "Student_ID": 700001223,
+  "HOLD_TYPE": "Registration Hold."
+ },
+ {
+  "HOLD_ID": "HOLD17",
+  "Student_ID": 700001501,
+  "HOLD_TYPE": "COVID Vaccination: COVID Vaccination - Mandate not met."
+ },
+ {
+  "HOLD_ID": "HOLD18",
+  "Student_ID": 700001893,
+  "HOLD_TYPE": "Admissions, Incomplete"
+ },
+ {
+  "HOLD_ID": "HOLD10",
+  "Student_ID": 700001664,
+  "HOLD_TYPE": "Academic Probation."
+ },
+ {
+  "HOLD_ID": "HOLD11",
+  "Student_ID": 700000753,
+  "HOLD_TYPE": "Non-payment of parking obligations and fines."
+ },
+ {
+  "HOLD_ID": "HOLD12",
+  "Student_ID": 700001450,
+  "HOLD_TYPE": "Financial Aid Application incomplete."
+ },
+ {
+  "HOLD_ID": "HOLD13",
+  "Student_ID": 700000921,
+  "HOLD_TYPE": "Non-payment of tuition and fees."
+ },
+ {
+  "HOLD_ID": "HOLD14",
+  "Student_ID": 700000866,
+  "HOLD_TYPE": "Not returning library books, physical education and other college equipment."
+ },
+ {
+  "HOLD_ID": "HOLD15",
+  "Student_ID": 700061099,
+  "HOLD_TYPE": "Not satisfying the measles, mumps, rubella immunization requirement."
+ },
+ {
+  "HOLD_ID": "HOLD16",
+  "Student_ID": 700135290,
+  "HOLD_TYPE": "Registration Hold."
+ },
+ {
+  "HOLD_ID": "HOLD17",
+  "Student_ID": 700097991,
+  "HOLD_TYPE": "COVID Vaccination: COVID Vaccination - Mandate not met."
+ },
+ {
+  "HOLD_ID": "HOLD18",
+  "Student_ID": 700086309,
+  "HOLD_TYPE": "Admissions, Incomplete"
+ },
+ {
+  "HOLD_ID": "HOLD10",
+  "Student_ID": 700090025,
+  "HOLD_TYPE": "Academic Probation."
+ },
+ {
+  "HOLD_ID": "HOLD11",
+  "Student_ID": 700084328,
+  "HOLD_TYPE": "Non-payment of parking obligations and fines."
+ },
+ {
+  "HOLD_ID": "HOLD12",
+  "Student_ID": 700105350,
+  "HOLD_TYPE": "Financial Aid Application incomplete."
+ },
+ {
+  "HOLD_ID": "HOLD13",
+  "Student_ID": 700148000,
+  "HOLD_TYPE": "Non-payment of tuition and fees."
+ },
+ {
+  "HOLD_ID": "HOLD14",
+  "Student_ID": 700062007,
+  "HOLD_TYPE": "Not returning library books, physical education and other college equipment."
+ },
+ {
+  "HOLD_ID": "HOLD15",
+  "Student_ID": 701735556,
+  "HOLD_TYPE": "Not satisfying the measles, mumps, rubella immunization requirement."
+ },
+ {
+  "HOLD_ID": "HOLD16",
+  "Student_ID": 700963150,
+  "HOLD_TYPE": "Registration Hold."
+ },
+ {
+  "HOLD_ID": "HOLD17",
+  "Student_ID": 701091421,
+  "HOLD_TYPE": "COVID Vaccination: COVID Vaccination - Mandate not met."
+ },
+ {
+  "HOLD_ID": "HOLD18",
+  "Student_ID": 701566641,
+  "HOLD_TYPE": "Admissions, Incomplete"
+ },
+ {
+  "HOLD_ID": "HOLD10",
+  "Student_ID": 701533457,
+  "HOLD_TYPE": "Academic Probation."
+ },
+ {
+  "HOLD_ID": "HOLD11",
+  "Student_ID": 701609964,
+  "HOLD_TYPE": "Non-payment of parking obligations and fines."
+ },
+ {
+  "HOLD_ID": "HOLD12",
+  "Student_ID": 701537333,
+  "HOLD_TYPE": "Financial Aid Application incomplete."
+ },
+ {
+  "HOLD_ID": "HOLD13",
+  "Student_ID": 700789274,
+  "HOLD_TYPE": "Non-payment of tuition and fees."
+ },
+ {
+  "HOLD_ID": "HOLD14",
+  "Student_ID": 700938879,
+  "HOLD_TYPE": "Not returning library books, physical education and other college equipment."
+ },
+ {
+  "HOLD_ID": "HOLD15",
+  "Student_ID": 700725783,
+  "HOLD_TYPE": "Not satisfying the measles, mumps, rubella immunization requirement."
+ },
+ {
+  "HOLD_ID": "HOLD16",
+  "Student_ID": 701437382,
+  "HOLD_TYPE": "Registration Hold."
+ },
+ {
+  "HOLD_ID": "HOLD17",
+  "Student_ID": 701857911,
+  "HOLD_TYPE": "COVID Vaccination: COVID Vaccination - Mandate not met."
+ },
+ {
+  "HOLD_ID": "HOLD18",
+  "Student_ID": 701331319,
+  "HOLD_TYPE": "Admissions, Incomplete"
+ },
+ {
+  "HOLD_ID": "HOLD10",
+  "Student_ID": 700750530,
+  "HOLD_TYPE": "Academic Probation."
+ },
+ {
+  "HOLD_ID": "HOLD11",
+  "Student_ID": 701465008,
+  "HOLD_TYPE": "Non-payment of parking obligations and fines."
+ },
+ {
+  "HOLD_ID": "HOLD12",
+  "Student_ID": 701528599,
+  "HOLD_TYPE": "Financial Aid Application incomplete."
+ },
+ {
+  "HOLD_ID": "HOLD13",
+  "Student_ID": 701820111,
+  "HOLD_TYPE": "Non-payment of tuition and fees."
+ },
+ {
+  "HOLD_ID": "HOLD14",
+  "Student_ID": 701796224,
+  "HOLD_TYPE": "Not returning library books, physical education and other college equipment."
+ },
+ {
+  "HOLD_ID": "HOLD15",
+  "Student_ID": 700165887,
+  "HOLD_TYPE": "Not satisfying the measles, mumps, rubella immunization requirement."
+ },
+ {
+  "HOLD_ID": "HOLD16",
+  "Student_ID": 700092605,
+  "HOLD_TYPE": "Registration Hold."
+ },
+ {
+  "HOLD_ID": "HOLD17",
+  "Student_ID": 700166301,
+  "HOLD_TYPE": "COVID Vaccination: COVID Vaccination - Mandate not met."
+ },
+ {
+  "HOLD_ID": "HOLD18",
+  "Student_ID": 700083356,
+  "HOLD_TYPE": "Admissions, Incomplete"
+ }
+]

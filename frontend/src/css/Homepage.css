@@ -1,0 +1,65 @@
+.homepage{
+ 
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.homepage-navbar{
+    display:flex;
+    width:100%;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(11, 33, 82);
+    height: 100px;
+    border-bottom: 1px solid black;
+    position: fixed;
+    
+}
+.navbar-option{
+    
+    height:fit-content;
+ 
+    width: fit-content;
+  
+    justify-content: flex-end;
+    align-items: flex-end;
+
+}
+.homepage-container{
+   padding-top:100px ;
+    width: 100vw;
+    height:1000px;
+    background-size: cover;
+    
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.signup{
+    display: flex;
+    height: 200px;
+    padding:20px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    text-shadow: 2px 2px black;
+    background-color: rgb(11, 33, 82);
+    border-radius: 10px;
+ 
+    
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+.navbar-option>MuiButton-root{
+background-color: aqua;
+}

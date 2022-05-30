@@ -1,0 +1,18 @@
+.App {
+ 
+  width: 100vw;
+  height: 100vh;
+margin: 0;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+background-color: rgb(169, 176, 180);
+overflow-y: scroll;
+
+}
+::-webkit-scrollbar {
+  width: 1;  /* Remove scrollbar space */
+  background: transparent;  /* Optional: just make scrollbar invisible */
+}
+

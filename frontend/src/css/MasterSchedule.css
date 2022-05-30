@@ -1,0 +1,71 @@
+.masterschedule{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+}
+.masterschedule2{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(15, 138, 219);
+
+}
+.masterschedule3{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(177, 145, 6);
+
+}
+.shadow{
+    
+    left:40%;   box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+.add-masterschedule{
+ 
+    display:flex ;
+    margin: 10px;
+
+    width:fit-content;
+    padding:20px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:20px;
+    text-align: center;
+    height: fit-content;
+    left:40%;   box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+.add-field>h5{
+    margin:0
+}
+#input-field{
+    background-color: aliceblue;
+    margin: 5px;
+}
+#btn-delete{
+    background-color: red;
+    width: 90vw;
+    
+    border-radius: 0;
+    color: white;
+    
+
+}
+h1{
+    padding-top:50px;
+    margin:0;
+}
+
+

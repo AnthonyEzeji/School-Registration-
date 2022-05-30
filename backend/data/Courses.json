@@ -1,0 +1,1754 @@
+[
+ {
+  "Course_ID": 1001,
+  "Course_Name": "Biology for Non-Science Majors",
+  "Course_Credit": 4,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1002,
+  "Course_Name": "Anatomy&Physiology I Lecture",
+  "Course_Credit": 3,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1003,
+  "Course_Name": "Anatomy&Physiology I Lab",
+  "Course_Credit": 1,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1004,
+  "Course_Name": "Anatomy&Physiology II Lecture",
+  "Course_Credit": 3,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1005,
+  "Course_Name": "Anatomy&Physiology II Lab",
+  "Course_Credit": 1,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1006,
+  "Course_Name": "Basic Bio Sciences I",
+  "Course_Credit": 3,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1007,
+  "Course_Name": "Basic Bio Sciences I Lab",
+  "Course_Credit": 1,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1008,
+  "Course_Name": "Basic Bio Sciences II",
+  "Course_Credit": 3,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1009,
+  "Course_Name": "Basic Bio Sciences II Lab",
+  "Course_Credit": 1,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1010,
+  "Course_Name": "Vertebrate Physiology",
+  "Course_Credit": 4,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1011,
+  "Course_Name": "Plant Biology",
+  "Course_Credit": 4,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1012,
+  "Course_Name": "Comparative Anatomy",
+  "Course_Credit": 3,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1013,
+  "Course_Name": "Comparative Anatomy Lab",
+  "Course_Credit": 1,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1014,
+  "Course_Name": "Cell Biology",
+  "Course_Credit": 4,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1015,
+  "Course_Name": "Microbiology",
+  "Course_Credit": 4,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1016,
+  "Course_Name": "Genetics",
+  "Course_Credit": 4,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1017,
+  "Course_Name": "Immunology",
+  "Course_Credit": 4,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1018,
+  "Course_Name": "Ecology",
+  "Course_Credit": 4,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1019,
+  "Course_Name": "Cancer Cell Biology",
+  "Course_Credit": 4,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1020,
+  "Course_Name": "SENIOR SEMINAR I",
+  "Course_Credit": 2,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1021,
+  "Course_Name": "Seminar II in Biology",
+  "Course_Credit": 2,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1022,
+  "Course_Name": "Advanced Research",
+  "Course_Credit": 4,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1023,
+  "Course_Name": "Topics:Molecular Bio & BioChem",
+  "Course_Credit": 3,
+  "Major": "Biological Sciences, B.S.",
+  "Department_Name": "Biological Studies",
+  "Dept_ID": "D001"
+ },
+ {
+  "Course_ID": 1024,
+  "Course_Name": "Principles of Chemistry I",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1025,
+  "Course_Name": "Princ of Chemistry Lab I",
+  "Course_Credit": 1,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1026,
+  "Course_Name": "Principles of Chemistry II",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1027,
+  "Course_Name": "Principles Chemistry Lab II",
+  "Course_Credit": 1,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1028,
+  "Course_Name": "Physical Science",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1029,
+  "Course_Name": "Structure of Physics I",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1030,
+  "Course_Name": "Structure of Physics I Lab",
+  "Course_Credit": 1,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1031,
+  "Course_Name": "Structure of Physics II",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1032,
+  "Course_Name": "Structure of Physics II Lab",
+  "Course_Credit": 1,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1033,
+  "Course_Name": "General Physics I",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1034,
+  "Course_Name": "General Physics I Lab",
+  "Course_Credit": 1,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1035,
+  "Course_Name": "Weather Studies",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1036,
+  "Course_Name": "Weather Studies Lab",
+  "Course_Credit": 1,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1037,
+  "Course_Name": "Ocean Studies",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1038,
+  "Course_Name": "Wave Motion:Light and Sound",
+  "Course_Credit": 4,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1039,
+  "Course_Name": "Astronomy",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1040,
+  "Course_Name": "Astronomy Laboratory",
+  "Course_Credit": 1,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1041,
+  "Course_Name": "Math Methods: Physical Science",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1042,
+  "Course_Name": "Organic Chemistry I",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1043,
+  "Course_Name": "Organic Chemistry Lab I",
+  "Course_Credit": 1,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1044,
+  "Course_Name": "Organic Chemistry II",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1045,
+  "Course_Name": "Analytical Chemistry-Lect\/Lab",
+  "Course_Credit": 4,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1046,
+  "Course_Name": "Biochemistry for Life Sciences",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1047,
+  "Course_Name": "Biochemistry I",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1048,
+  "Course_Name": "Physical Chemistry I",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1049,
+  "Course_Name": "Research",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1050,
+  "Course_Name": "Seminar I",
+  "Course_Credit": 1,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1052,
+  "Course_Name": "Topics in Earth&Space Science",
+  "Course_Credit": 3,
+  "Major": "Biochemistry, B.S.",
+  "Department_Name": "Chemistry & Physics",
+  "Dept_ID": "D002"
+ },
+ {
+  "Course_ID": 1053,
+  "Course_Name": "English Comp I: Exposition",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1054,
+  "Course_Name": "Writing Workshop",
+  "Course_Credit": 2,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1055,
+  "Course_Name": "English Comp II",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1064,
+  "Course_Name": "Structure & Grammar of English",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1065,
+  "Course_Name": "Peer Mentoring",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1066,
+  "Course_Name": "Lit Across Cultures I:Analysis",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1067,
+  "Course_Name": "Lit Across Cultures II:Theory",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1068,
+  "Course_Name": "Literatures of Europe Part I",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1069,
+  "Course_Name": "Literatures of Europe:Part II",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1070,
+  "Course_Name": "US Literature I",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1071,
+  "Course_Name": "Eng Lit I:Beowulf-18th Century",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1072,
+  "Course_Name": "Literatures of Africa",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1073,
+  "Course_Name": "Intro to Creative Writing",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1074,
+  "Course_Name": "Multi-Ethnic U.S. Literature",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1075,
+  "Course_Name": "Women & Narrative",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1076,
+  "Course_Name": "Afro-American Poetry & Plays",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1077,
+  "Course_Name": "Greek Mythology",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1078,
+  "Course_Name": "Shakespeare: Selected Plays",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1079,
+  "Course_Name": "Major Authors",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1080,
+  "Course_Name": "Senior Seminar I: Methodology",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1081,
+  "Course_Name": "Senior Seminar II: Thesis Com.",
+  "Course_Credit": 4,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1082,
+  "Course_Name": "Foundations of US Lit",
+  "Course_Credit": 3,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1083,
+  "Course_Name": "Foundations of English Lit",
+  "Course_Credit": 3,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1084,
+  "Course_Name": "Rhetoric & Composition",
+  "Course_Credit": 3,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1085,
+  "Course_Name": "Literature in the Classroom",
+  "Course_Credit": 3,
+  "Major": "English, B.A.",
+  "Department_Name": "English",
+  "Dept_ID": "D003"
+ },
+ {
+  "Course_ID": 1086,
+  "Course_Name": "Code Your World",
+  "Course_Credit": 4,
+  "Major": "Computer & Information Science, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1087,
+  "Course_Name": "Intro to Computer Applications",
+  "Course_Credit": 4,
+  "Major": "Computer & Information Science, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1088,
+  "Course_Name": "Computer Programming I",
+  "Course_Credit": 4,
+  "Major": "Computer & Information Science, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1089,
+  "Course_Name": "Computer Programming II",
+  "Course_Credit": 4,
+  "Major": "Computer & Information Science, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1090,
+  "Course_Name": "Advanced C#",
+  "Course_Credit": 4,
+  "Major": "Computer & Information Science, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1091,
+  "Course_Name": "Data Structures & Algorithms",
+  "Course_Credit": 4,
+  "Major": "Computer & Information Science, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1092,
+  "Course_Name": "C++in Object Oriented Design",
+  "Course_Credit": 4,
+  "Major": "Computer & Information Science, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1093,
+  "Course_Name": "Technical Communications",
+  "Course_Credit": 4,
+  "Major": "Computer & Information Science, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1094,
+  "Course_Name": "Artificial Intelligence",
+  "Course_Credit": 4,
+  "Major": "Computer & Information Science, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1095,
+  "Course_Name": "Software Engineering",
+  "Course_Credit": 4,
+  "Major": "Computer & Information Science, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1096,
+  "Course_Name": "Database Management Systems",
+  "Course_Credit": 4,
+  "Major": "Computer & Information Science, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1097,
+  "Course_Name": "Internet & Web Tech",
+  "Course_Credit": 4,
+  "Major": "Computer & Information Science, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1098,
+  "Course_Name": "Computer Science Practicum",
+  "Course_Credit": 2,
+  "Major": "Computer & Information Science, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1099,
+  "Course_Name": "Computer Networks",
+  "Course_Credit": 4,
+  "Major": "Computer & Information Science, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1100,
+  "Course_Name": "Systems Design & Implement",
+  "Course_Credit": 4,
+  "Major": "Computer & Information Science, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1101,
+  "Course_Name": "Algorithms&Programming Tchnqs",
+  "Course_Credit": 4,
+  "Major": "Data Science, M.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1102,
+  "Course_Name": "Intro to Databases",
+  "Course_Credit": 4,
+  "Major": "Data Science, M.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1103,
+  "Course_Name": "Data Analytics II",
+  "Course_Credit": 4,
+  "Major": "Data Science, M.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1104,
+  "Course_Name": "Communication and Presentation",
+  "Course_Credit": 4,
+  "Major": "Data Science, M.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1105,
+  "Course_Name": "Analytics Project I",
+  "Course_Credit": 4,
+  "Major": "Data Science, M.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1106,
+  "Course_Name": "Powertrack Math",
+  "Course_Credit": 2,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1107,
+  "Course_Name": "College Algebra",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1108,
+  "Course_Name": "Applied Statistics",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1109,
+  "Course_Name": "Foundations of Mathematics I",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1110,
+  "Course_Name": "Quantitative Decision Making",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1111,
+  "Course_Name": "Precalc\/Business & Economics",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1112,
+  "Course_Name": "Precalculus",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1113,
+  "Course_Name": "Calc\/Business & Economics",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1114,
+  "Course_Name": "Calc & Analytic Geometry I",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1115,
+  "Course_Name": "Calc & Analytic Geometry II",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1116,
+  "Course_Name": "Discrete Mathematics",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1117,
+  "Course_Name": "Linear Algebra",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1118,
+  "Course_Name": "Found. of Sec. Mathematics",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1119,
+  "Course_Name": "Intro to Prob & Statistics",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1120,
+  "Course_Name": "Calc & Analyt Geometry III",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1121,
+  "Course_Name": "Transition to Advanced Math",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1122,
+  "Course_Name": "Number Theory",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1123,
+  "Course_Name": "Abstract Algebra I",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1124,
+  "Course_Name": "Advanced Calculus I",
+  "Course_Credit": 4,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1125,
+  "Course_Name": "Probability and Statistics",
+  "Course_Credit": 3,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1126,
+  "Course_Name": "Geometry",
+  "Course_Credit": 3,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1127,
+  "Course_Name": "Statistics I",
+  "Course_Credit": 3,
+  "Major": "Mathematics, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1128,
+  "Course_Name": "Unions & Management: An Intro",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1129,
+  "Course_Name": "Unions & Public Policy",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1130,
+  "Course_Name": "CollectiveBarg & GrievanceProc",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1131,
+  "Course_Name": "Labor Economics",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1132,
+  "Course_Name": "Topics in Labor Studies",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1133,
+  "Course_Name": "Intro to Urban Issues",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1134,
+  "Course_Name": "Introduction to Law",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1135,
+  "Course_Name": "Principles of Microeconomics",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1136,
+  "Course_Name": "Principles of Macroeconomics",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1137,
+  "Course_Name": "Intro to U.S. Politics",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1138,
+  "Course_Name": "International Relations",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1139,
+  "Course_Name": "Ethnopolitics in the World",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1140,
+  "Course_Name": "Global South",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1141,
+  "Course_Name": "Contemp US Political Economy",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1142,
+  "Course_Name": "International Organizations",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1143,
+  "Course_Name": "Jurisprudence: Legal Thought",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1144,
+  "Course_Name": "Health Economics",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1145,
+  "Course_Name": "Origins of Capitalist Econ",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1146,
+  "Course_Name": "Global Economy in 20th Century",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1147,
+  "Course_Name": "Public Administration",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1148,
+  "Course_Name": "Constitutional Law & Politics",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1149,
+  "Course_Name": "Law & Civil Rights",
+  "Course_Credit": 4,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1150,
+  "Course_Name": "Peer Tutor",
+  "Course_Credit": 1,
+  "Major": "Politics, Economics & Law, B.A.",
+  "Department_Name": "Politics, Economics & Law",
+  "Dept_ID": "D006"
+ },
+ {
+  "Course_ID": 1151,
+  "Course_Name": "Info Systems for Managers",
+  "Course_Credit": 4,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1152,
+  "Course_Name": "Info. Tech. and Applications",
+  "Course_Credit": 4,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1153,
+  "Course_Name": "Principles of Accounting I",
+  "Course_Credit": 3,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1154,
+  "Course_Name": "Principles of Accounting II",
+  "Course_Credit": 3,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1155,
+  "Course_Name": "Principles of Business Law",
+  "Course_Credit": 2,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1156,
+  "Course_Name": "Intermed. Business Law",
+  "Course_Credit": 2,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1157,
+  "Course_Name": "Advanced Business Law",
+  "Course_Credit": 2,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1158,
+  "Course_Name": "Marketing:Principles & Concept",
+  "Course_Credit": 4,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1159,
+  "Course_Name": "Business Communications",
+  "Course_Credit": 2,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1160,
+  "Course_Name": "Business Presentation Skills",
+  "Course_Credit": 2,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1161,
+  "Course_Name": "Web Sys & Electronic Commerce",
+  "Course_Credit": 4,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1162,
+  "Course_Name": "Organizational Behavior & Mgmt",
+  "Course_Credit": 4,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1163,
+  "Course_Name": "Global Business",
+  "Course_Credit": 4,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1164,
+  "Course_Name": "Entrepreneurship",
+  "Course_Credit": 4,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1165,
+  "Course_Name": "Intermediate Accounting I",
+  "Course_Credit": 4,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1166,
+  "Course_Name": "Intermediate Accounting II",
+  "Course_Credit": 4,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1167,
+  "Course_Name": "Federal Income Tax I",
+  "Course_Credit": 4,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1168,
+  "Course_Name": "Cost Accounting",
+  "Course_Credit": 4,
+  "Major": "Accounting, B.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1169,
+  "Course_Name": "Global Financial Markets",
+  "Course_Credit": 4,
+  "Major": "Business Administration, B.S",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1170,
+  "Course_Name": "Financial Management I",
+  "Course_Credit": 4,
+  "Major": "Business Administration, B.S",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1171,
+  "Course_Name": "Financial Markets & Inst",
+  "Course_Credit": 4,
+  "Major": "Business Administration, B.S",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1172,
+  "Course_Name": "Marketing Research",
+  "Course_Credit": 4,
+  "Major": "Business Administration, B.S",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1173,
+  "Course_Name": "International Marketing",
+  "Course_Credit": 4,
+  "Major": "Business Administration, B.S",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1174,
+  "Course_Name": "Consumer Behavior",
+  "Course_Credit": 4,
+  "Major": "Business Administration, B.S",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1175,
+  "Course_Name": "Operations Management",
+  "Course_Credit": 4,
+  "Major": "Business Administration, B.S",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1176,
+  "Course_Name": "Human Resource Management",
+  "Course_Credit": 4,
+  "Major": "Business Administration, B.S",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1177,
+  "Course_Name": "Business Strategy & Policy",
+  "Course_Credit": 4,
+  "Major": "Business Administration, B.S",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1178,
+  "Course_Name": "Leadership",
+  "Course_Credit": 4,
+  "Major": "Business Administration, B.S",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1179,
+  "Course_Name": "Essentials-Gov't&Non-ProfAcctg",
+  "Course_Credit": 2,
+  "Major": "Business Administration, B.S",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1180,
+  "Course_Name": "Financial Accounting Research",
+  "Course_Credit": 2,
+  "Major": "Business Administration, B.S",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1181,
+  "Course_Name": "Fundamentals of Int'l Acctg",
+  "Course_Credit": 4,
+  "Major": "Accounting, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1182,
+  "Course_Name": "Advanced Accounting",
+  "Course_Credit": 4,
+  "Major": "Accounting, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1183,
+  "Course_Name": "Auditing",
+  "Course_Credit": 4,
+  "Major": "Accounting, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1184,
+  "Course_Name": "Fin. Modeling & Forecasting",
+  "Course_Credit": 4,
+  "Major": "Accounting, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1185,
+  "Course_Name": "Invest Mgmt & Sec Analysis",
+  "Course_Credit": 4,
+  "Major": "Accounting, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1186,
+  "Course_Name": "Corporate Finance",
+  "Course_Credit": 4,
+  "Major": "Accounting, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1187,
+  "Course_Name": "Strategic Marketing",
+  "Course_Credit": 4,
+  "Major": "Accounting, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1188,
+  "Course_Name": "Brand Theory and Strategy",
+  "Course_Credit": 4,
+  "Major": "Accounting, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1189,
+  "Course_Name": "Financial Report, Anal.&Ethics",
+  "Course_Credit": 4,
+  "Major": "Accounting, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1190,
+  "Course_Name": "Int'l Acctg & Reporting",
+  "Course_Credit": 4,
+  "Major": "Accounting, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1191,
+  "Course_Name": "Accounting Information Systems",
+  "Course_Credit": 4,
+  "Major": "Accounting, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1192,
+  "Course_Name": "Adv Auditing&Assurance Service",
+  "Course_Credit": 4,
+  "Major": "Taxation, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1193,
+  "Course_Name": "Fraud Examination",
+  "Course_Credit": 4,
+  "Major": "Taxation, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1194,
+  "Course_Name": "Criminology\/White Collar Crime",
+  "Course_Credit": 4,
+  "Major": "Taxation, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1195,
+  "Course_Name": "Taxation for Corporate Manager",
+  "Course_Credit": 4,
+  "Major": "Taxation, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1196,
+  "Course_Name": "Tax Ethics,Practice&Procedure",
+  "Course_Credit": 4,
+  "Major": "Taxation, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1197,
+  "Course_Name": "Taxation SCorps,Partnrsp,&LLCs",
+  "Course_Credit": 4,
+  "Major": "Taxation, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1198,
+  "Course_Name": "Estate & Gift Taxation",
+  "Course_Credit": 4,
+  "Major": "Taxation, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1199,
+  "Course_Name": "Global Finance",
+  "Course_Credit": 4,
+  "Major": "Taxation, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1200,
+  "Course_Name": "Computer Architecture",
+  "Course_Credit": 4,
+  "Major": "Computer & Information Science, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1202,
+  "Course_Name": "Basic French I",
+  "Course_Credit": 4,
+  "Major": "General Studies, B.A",
+  "Department_Name": "School of General Studies",
+  "Dept_ID": "D007"
+ },
+ {
+  "Course_ID": 1203,
+  "Course_Name": "Basic Spanish I",
+  "Course_Credit": 4,
+  "Major": "General Studies, B.A",
+  "Department_Name": "School of General Studies",
+  "Dept_ID": "D007"
+ },
+ {
+  "Course_ID": 1204,
+  "Course_Name": "Operating Systems",
+  "Course_Credit": 4,
+  "Major": "Management Information Systems, B.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1205,
+  "Course_Name": "Analytics Project II",
+  "Course_Credit": 4,
+  "Major": "Data Science, M.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1206,
+  "Course_Name": "Graduate Statistics I",
+  "Course_Credit": 4,
+  "Major": "Data Science, M.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1207,
+  "Course_Name": "Graduate Statistics II",
+  "Course_Credit": 4,
+  "Major": "Data Science, M.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1208,
+  "Course_Name": "Data Analytics I",
+  "Course_Credit": 4,
+  "Major": "Data Science, M.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1209,
+  "Course_Name": "Project Management",
+  "Course_Credit": 4,
+  "Major": "Data Science, M.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1210,
+  "Course_Name": "Internship",
+  "Course_Credit": 4,
+  "Major": "Data Science, M.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1211,
+  "Course_Name": "Professional Accounting I",
+  "Course_Credit": 4,
+  "Major": "Accounting, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1212,
+  "Course_Name": "Professional Accounting II",
+  "Course_Credit": 4,
+  "Major": "Accounting, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1213,
+  "Course_Name": "Federal Tax I",
+  "Course_Credit": 4,
+  "Major": "Accounting, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1214,
+  "Course_Name": "Essential of Gov & Non Profit Acc",
+  "Course_Credit": 4,
+  "Major": "Accounting, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1215,
+  "Course_Name": "Business Law and Legislation",
+  "Course_Credit": 4,
+  "Major": "Accounting, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1216,
+  "Course_Name": "Date Warehousing",
+  "Course_Credit": 4,
+  "Major": "Data Science, M.S.",
+  "Department_Name": "Mathematics & Computer & Info Science",
+  "Dept_ID": "D005"
+ },
+ {
+  "Course_ID": 1217,
+  "Course_Name": "Taxation of Liquidation",
+  "Course_Credit": 4,
+  "Major": "Taxation, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1218,
+  "Course_Name": "Tax & Accounting Research",
+  "Course_Credit": 4,
+  "Major": "Taxation, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1219,
+  "Course_Name": "Multi State Taxation",
+  "Course_Credit": 4,
+  "Major": "Taxation, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1220,
+  "Course_Name": "Taxation of Estate and Trusts",
+  "Course_Credit": 4,
+  "Major": "Taxation, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1221,
+  "Course_Name": "International Taxation",
+  "Course_Credit": 4,
+  "Major": "Taxation, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1222,
+  "Course_Name": "Seminar and Taxation",
+  "Course_Credit": 4,
+  "Major": "Taxation, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 1223,
+  "Course_Name": "Thesis and Taxation",
+  "Course_Credit": 4,
+  "Major": "Taxation, M.S.",
+  "Department_Name": "School of Business",
+  "Dept_ID": "D004"
+ },
+ {
+  "Course_ID": 2010,
+  "Course_Name": "Intro to Creative Thinking",
+  "Course_Credit": 4,
+  "Major": "General Studies, B.A",
+  "Department_Name": "School of General Studies",
+  "Dept_ID": "D007"
+ },
+ {
+  "Course_ID": 2020,
+  "Course_Name": "Basic Design",
+  "Course_Credit": 4,
+  "Major": "General Studies, B.A",
+  "Department_Name": "School of General Studies",
+  "Dept_ID": "D007"
+ },
+ {
+  "Course_ID": 2030,
+  "Course_Name": "Drawing",
+  "Course_Credit": 4,
+  "Major": "General Studies, B.A",
+  "Department_Name": "School of General Studies",
+  "Dept_ID": "D007"
+ },
+ {
+  "Course_ID": 2045,
+  "Course_Name": "Intro to Color",
+  "Course_Credit": 4,
+  "Major": "General Studies, B.A",
+  "Department_Name": "School of General Studies",
+  "Dept_ID": "D007"
+ },
+ {
+  "Course_ID": 2320,
+  "Course_Name": "Graphic Design I",
+  "Course_Credit": 4,
+  "Major": "General Studies, B.A",
+  "Department_Name": "School of General Studies",
+  "Dept_ID": "D007"
+ },
+ {
+  "Course_ID": 4460,
+  "Course_Name": "Digital Animation",
+  "Course_Credit": 4,
+  "Major": "General Studies, B.A",
+  "Department_Name": "School of General Studies",
+  "Dept_ID": "D007"
+ }
+]

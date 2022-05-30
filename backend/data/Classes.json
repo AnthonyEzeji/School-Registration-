@@ -1,0 +1,1964 @@
+[
+ {
+  "CRN": 21661,
+  "Course_ID": 1196,
+  "Class_Section": 2,
+  "Room_ID": "CC113",
+  "Faculty_ID": 700000201,
+  "Timeslot_ID": "TS199",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 10178,
+  "Course_ID": 1016,
+  "Class_Section": 1,
+  "Room_ID": "CC114",
+  "Faculty_ID": 700000315,
+  "Timeslot_ID": "TS094",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 25488,
+  "Course_ID": 1077,
+  "Class_Section": 1,
+  "Room_ID": "CC115",
+  "Faculty_ID": 700000178,
+  "Timeslot_ID": "TS104",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 27986,
+  "Course_ID": 1001,
+  "Class_Section": 2,
+  "Room_ID": "CC116",
+  "Faculty_ID": 700000237,
+  "Timeslot_ID": "TS032",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 35680,
+  "Course_ID": 1189,
+  "Class_Section": 2,
+  "Room_ID": "CC117",
+  "Faculty_ID": 700000125,
+  "Timeslot_ID": "TS085",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 32301,
+  "Course_ID": 1037,
+  "Class_Section": 2,
+  "Room_ID": "CC118",
+  "Faculty_ID": 700000358,
+  "Timeslot_ID": "TS149",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 15815,
+  "Course_ID": 1150,
+  "Class_Section": 1,
+  "Room_ID": "CC119",
+  "Faculty_ID": 700000207,
+  "Timeslot_ID": "TS158",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 17133,
+  "Course_ID": 1163,
+  "Class_Section": 2,
+  "Room_ID": "CC120",
+  "Faculty_ID": 700000285,
+  "Timeslot_ID": "TS096",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 18498,
+  "Course_ID": 1223,
+  "Class_Section": 1,
+  "Room_ID": "CC121",
+  "Faculty_ID": 700000199,
+  "Timeslot_ID": "TS205",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 24395,
+  "Course_ID": 1138,
+  "Class_Section": 2,
+  "Room_ID": "CC122",
+  "Faculty_ID": 700000497,
+  "Timeslot_ID": "TS116",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 19223,
+  "Course_ID": 1049,
+  "Class_Section": 2,
+  "Room_ID": "CC123",
+  "Faculty_ID": 700000115,
+  "Timeslot_ID": "TS180",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 33904,
+  "Course_ID": 1084,
+  "Class_Section": 1,
+  "Room_ID": "CC124",
+  "Faculty_ID": 700000357,
+  "Timeslot_ID": "TS181",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 37451,
+  "Course_ID": 1100,
+  "Class_Section": 2,
+  "Room_ID": "CC125",
+  "Faculty_ID": 700000305,
+  "Timeslot_ID": "TS197",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 29505,
+  "Course_ID": 1165,
+  "Class_Section": 2,
+  "Room_ID": "CC126",
+  "Faculty_ID": 700000275,
+  "Timeslot_ID": "TS112",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 22446,
+  "Course_ID": 1137,
+  "Class_Section": 2,
+  "Room_ID": "CC127",
+  "Faculty_ID": 700000175,
+  "Timeslot_ID": "TS126",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 20554,
+  "Course_ID": 1003,
+  "Class_Section": 1,
+  "Room_ID": "CC128",
+  "Faculty_ID": 700000240,
+  "Timeslot_ID": "TS014",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 26426,
+  "Course_ID": 1009,
+  "Class_Section": 2,
+  "Room_ID": "CC129",
+  "Faculty_ID": 700000223,
+  "Timeslot_ID": "TS026",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 13249,
+  "Course_ID": 1114,
+  "Class_Section": 1,
+  "Room_ID": "CC130",
+  "Faculty_ID": 700000433,
+  "Timeslot_ID": "TS040",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 31702,
+  "Course_ID": 1167,
+  "Class_Section": 1,
+  "Room_ID": "CC131",
+  "Faculty_ID": 700000133,
+  "Timeslot_ID": "TS079",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 11122,
+  "Course_ID": 1141,
+  "Class_Section": 1,
+  "Room_ID": "CC132",
+  "Faculty_ID": 700000238,
+  "Timeslot_ID": "TS058",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 38694,
+  "Course_ID": 1105,
+  "Class_Section": 1,
+  "Room_ID": "CC133",
+  "Faculty_ID": 700000171,
+  "Timeslot_ID": "TS012",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 23863,
+  "Course_ID": 1115,
+  "Class_Section": 2,
+  "Room_ID": "CC134",
+  "Faculty_ID": 700000293,
+  "Timeslot_ID": "TS041",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 21946,
+  "Course_ID": 1030,
+  "Class_Section": 2,
+  "Room_ID": "CC135",
+  "Faculty_ID": 700000421,
+  "Timeslot_ID": "TS194",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 10184,
+  "Course_ID": 1135,
+  "Class_Section": 1,
+  "Room_ID": "CC136",
+  "Faculty_ID": 700000284,
+  "Timeslot_ID": "TS173",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 25514,
+  "Course_ID": 1069,
+  "Class_Section": 2,
+  "Room_ID": "CC137",
+  "Faculty_ID": 700000382,
+  "Timeslot_ID": "TS140",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 28001,
+  "Course_ID": 1181,
+  "Class_Section": 1,
+  "Room_ID": "CC138",
+  "Faculty_ID": 700000227,
+  "Timeslot_ID": "TS091",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 35843,
+  "Course_ID": 1149,
+  "Class_Section": 2,
+  "Room_ID": "CC139",
+  "Faculty_ID": 700000428,
+  "Timeslot_ID": "TS132",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 32388,
+  "Course_ID": 1155,
+  "Class_Section": 2,
+  "Room_ID": "CC140",
+  "Faculty_ID": 700000119,
+  "Timeslot_ID": "TS169",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 16039,
+  "Course_ID": 1076,
+  "Class_Section": 2,
+  "Room_ID": "CC141",
+  "Faculty_ID": 700000198,
+  "Timeslot_ID": "TS009",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 17387,
+  "Course_ID": 1094,
+  "Class_Section": 2,
+  "Room_ID": "CC142",
+  "Faculty_ID": 700000298,
+  "Timeslot_ID": "TS019",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 18552,
+  "Course_ID": 1012,
+  "Class_Section": 1,
+  "Room_ID": "CC143",
+  "Faculty_ID": 700000494,
+  "Timeslot_ID": "TS049",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 24445,
+  "Course_ID": 2030,
+  "Class_Section": 1,
+  "Room_ID": "CC144",
+  "Faculty_ID": 700000482,
+  "Timeslot_ID": "TS069",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 19342,
+  "Course_ID": 1112,
+  "Class_Section": 2,
+  "Room_ID": "CC145",
+  "Faculty_ID": 700000155,
+  "Timeslot_ID": "TS164",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 16061,
+  "Course_ID": 1213,
+  "Class_Section": 2,
+  "Room_ID": "CC146",
+  "Faculty_ID": 700000399,
+  "Timeslot_ID": "TS080",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 17525,
+  "Course_ID": 1164,
+  "Class_Section": 2,
+  "Room_ID": "CC147",
+  "Faculty_ID": 700000102,
+  "Timeslot_ID": "TS074",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 18571,
+  "Course_ID": 1142,
+  "Class_Section": 1,
+  "Room_ID": "CC148",
+  "Faculty_ID": 700000479,
+  "Timeslot_ID": "TS115",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 24829,
+  "Course_ID": 1099,
+  "Class_Section": 1,
+  "Room_ID": "CC149",
+  "Faculty_ID": 700000192,
+  "Timeslot_ID": "TS052",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 19478,
+  "Course_ID": 1162,
+  "Class_Section": 1,
+  "Room_ID": "CC150",
+  "Faculty_ID": 700000463,
+  "Timeslot_ID": "TS155",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 16121,
+  "Course_ID": 1042,
+  "Class_Section": 1,
+  "Room_ID": "CC151",
+  "Faculty_ID": 700000406,
+  "Timeslot_ID": "TS152",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 17557,
+  "Course_ID": 1191,
+  "Class_Section": 2,
+  "Room_ID": "CC152",
+  "Faculty_ID": 700000448,
+  "Timeslot_ID": "TS002",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 18596,
+  "Course_ID": 1035,
+  "Class_Section": 1,
+  "Room_ID": "CC153",
+  "Faculty_ID": 700000180,
+  "Timeslot_ID": "TS215",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 24840,
+  "Course_ID": 1045,
+  "Class_Section": 2,
+  "Room_ID": "CC154",
+  "Faculty_ID": 700000343,
+  "Timeslot_ID": "TS011",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 19504,
+  "Course_ID": 1046,
+  "Class_Section": 1,
+  "Room_ID": "CC155",
+  "Faculty_ID": 700000370,
+  "Timeslot_ID": "TS030",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 16623,
+  "Course_ID": 1018,
+  "Class_Section": 1,
+  "Room_ID": "CC156",
+  "Faculty_ID": 700000397,
+  "Timeslot_ID": "TS070",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 17563,
+  "Course_ID": 1178,
+  "Class_Section": 2,
+  "Room_ID": "CC157",
+  "Faculty_ID": 700000432,
+  "Timeslot_ID": "TS133",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 18711,
+  "Course_ID": 1182,
+  "Class_Section": 2,
+  "Room_ID": "CC158",
+  "Faculty_ID": 700000333,
+  "Timeslot_ID": "TS004",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 24857,
+  "Course_ID": 1031,
+  "Class_Section": 2,
+  "Room_ID": "CC159",
+  "Faculty_ID": 700000422,
+  "Timeslot_ID": "TS195",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 19536,
+  "Course_ID": 1124,
+  "Class_Section": 1,
+  "Room_ID": "CC160",
+  "Faculty_ID": 700000332,
+  "Timeslot_ID": "TS007",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 16716,
+  "Course_ID": 1210,
+  "Class_Section": 1,
+  "Room_ID": "CC161",
+  "Faculty_ID": 700000434,
+  "Timeslot_ID": "TS119",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 17728,
+  "Course_ID": 1032,
+  "Class_Section": 1,
+  "Room_ID": "CC162",
+  "Faculty_ID": 700000443,
+  "Timeslot_ID": "TS196",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 18726,
+  "Course_ID": 1215,
+  "Class_Section": 2,
+  "Room_ID": "CC163",
+  "Faculty_ID": 700000308,
+  "Timeslot_ID": "TS035",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 25179,
+  "Course_ID": 1128,
+  "Class_Section": 1,
+  "Room_ID": "CC164",
+  "Faculty_ID": 700000176,
+  "Timeslot_ID": "TS210",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 19737,
+  "Course_ID": 1170,
+  "Class_Section": 1,
+  "Room_ID": "CC165",
+  "Faculty_ID": 700000439,
+  "Timeslot_ID": "TS083",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 26467,
+  "Course_ID": 1023,
+  "Class_Section": 1,
+  "Room_ID": "CC166",
+  "Faculty_ID": 700000364,
+  "Timeslot_ID": "TS208",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 13493,
+  "Course_ID": 1010,
+  "Class_Section": 2,
+  "Room_ID": "CC167",
+  "Faculty_ID": 700000281,
+  "Timeslot_ID": "TS213",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 31809,
+  "Course_ID": 1166,
+  "Class_Section": 1,
+  "Room_ID": "NAB241",
+  "Faculty_ID": 700000437,
+  "Timeslot_ID": "TS113",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 11400,
+  "Course_ID": 1169,
+  "Class_Section": 2,
+  "Room_ID": "NAB242",
+  "Faculty_ID": 700000179,
+  "Timeslot_ID": "TS099",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 39062,
+  "Course_ID": 1085,
+  "Class_Section": 1,
+  "Room_ID": "NAB243",
+  "Faculty_ID": 700000478,
+  "Timeslot_ID": "TS137",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 23911,
+  "Course_ID": 1154,
+  "Class_Section": 2,
+  "Room_ID": "NAB244",
+  "Faculty_ID": 700000449,
+  "Timeslot_ID": "TS168",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 21970,
+  "Course_ID": 1054,
+  "Class_Section": 2,
+  "Room_ID": "NAB245",
+  "Faculty_ID": 700000385,
+  "Timeslot_ID": "TS219",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 10296,
+  "Course_ID": 1086,
+  "Class_Section": 1,
+  "Room_ID": "NAB246",
+  "Faculty_ID": 700000141,
+  "Timeslot_ID": "TS045",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 25682,
+  "Course_ID": 1208,
+  "Class_Section": 2,
+  "Room_ID": "NAB247",
+  "Faculty_ID": 700000329,
+  "Timeslot_ID": "TS062",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 28506,
+  "Course_ID": 1157,
+  "Class_Section": 1,
+  "Room_ID": "NAB248",
+  "Faculty_ID": 700000255,
+  "Timeslot_ID": "TS005",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 35844,
+  "Course_ID": 1019,
+  "Class_Section": 1,
+  "Room_ID": "NAB249",
+  "Faculty_ID": 700000172,
+  "Timeslot_ID": "TS043",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 32549,
+  "Course_ID": 1093,
+  "Class_Section": 2,
+  "Room_ID": "NAB250",
+  "Faculty_ID": 700000309,
+  "Timeslot_ID": "TS204",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 16720,
+  "Course_ID": 1147,
+  "Class_Section": 1,
+  "Room_ID": "NAB251",
+  "Faculty_ID": 700000491,
+  "Timeslot_ID": "TS178",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 17906,
+  "Course_ID": 1179,
+  "Class_Section": 1,
+  "Room_ID": "NAB252",
+  "Faculty_ID": 700000466,
+  "Timeslot_ID": "TS076",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 18734,
+  "Course_ID": 1133,
+  "Class_Section": 1,
+  "Room_ID": "NAB253",
+  "Faculty_ID": 700000361,
+  "Timeslot_ID": "TS127",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 25314,
+  "Course_ID": 1197,
+  "Class_Section": 2,
+  "Room_ID": "NAB254",
+  "Faculty_ID": 700000300,
+  "Timeslot_ID": "TS203",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 19899,
+  "Course_ID": 1110,
+  "Class_Section": 1,
+  "Room_ID": "NAB255",
+  "Faculty_ID": 700000498,
+  "Timeslot_ID": "TS179",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 34037,
+  "Course_ID": 1212,
+  "Class_Section": 2,
+  "Room_ID": "NAB256",
+  "Faculty_ID": 700000369,
+  "Timeslot_ID": "TS176",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 37544,
+  "Course_ID": 1090,
+  "Class_Section": 2,
+  "Room_ID": "NAB257",
+  "Faculty_ID": 700000190,
+  "Timeslot_ID": "TS006",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 29877,
+  "Course_ID": 1006,
+  "Class_Section": 1,
+  "Room_ID": "NAB258",
+  "Faculty_ID": 700000441,
+  "Timeslot_ID": "TS023",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 22483,
+  "Course_ID": 1188,
+  "Class_Section": 2,
+  "Room_ID": "NAB259",
+  "Faculty_ID": 700000184,
+  "Timeslot_ID": "TS033",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 20567,
+  "Course_ID": 1120,
+  "Class_Section": 2,
+  "Room_ID": "NAB260",
+  "Faculty_ID": 700000384,
+  "Timeslot_ID": "TS039",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 26727,
+  "Course_ID": 1211,
+  "Class_Section": 1,
+  "Room_ID": "NAB261",
+  "Faculty_ID": 700000417,
+  "Timeslot_ID": "TS175",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 13820,
+  "Course_ID": 1207,
+  "Class_Section": 1,
+  "Room_ID": "NAB262",
+  "Faculty_ID": 700000118,
+  "Timeslot_ID": "TS102",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 31830,
+  "Course_ID": 1002,
+  "Class_Section": 2,
+  "Room_ID": "NAB263",
+  "Faculty_ID": 700000130,
+  "Timeslot_ID": "TS015",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 12096,
+  "Course_ID": 1072,
+  "Class_Section": 2,
+  "Room_ID": "NAB264",
+  "Faculty_ID": 700000116,
+  "Timeslot_ID": "TS138",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 39086,
+  "Course_ID": 1171,
+  "Class_Section": 1,
+  "Room_ID": "NAB265",
+  "Faculty_ID": 700000340,
+  "Timeslot_ID": "TS084",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 24018,
+  "Course_ID": 1173,
+  "Class_Section": 2,
+  "Room_ID": "NAB266",
+  "Faculty_ID": 700000254,
+  "Timeslot_ID": "TS114",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 22051,
+  "Course_ID": 1073,
+  "Class_Section": 1,
+  "Room_ID": "NAB267",
+  "Faculty_ID": 700000195,
+  "Timeslot_ID": "TS123",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 10345,
+  "Course_ID": 1103,
+  "Class_Section": 1,
+  "Room_ID": "NAB268",
+  "Faculty_ID": 700000233,
+  "Timeslot_ID": "TS063",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 25696,
+  "Course_ID": 1121,
+  "Class_Section": 2,
+  "Room_ID": "NAB269",
+  "Faculty_ID": 700000265,
+  "Timeslot_ID": "TS209",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 28636,
+  "Course_ID": 1192,
+  "Class_Section": 2,
+  "Room_ID": "NAB270",
+  "Faculty_ID": 700000264,
+  "Timeslot_ID": "TS003",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 35937,
+  "Course_ID": 1007,
+  "Class_Section": 2,
+  "Room_ID": "NAB271",
+  "Faculty_ID": 700000225,
+  "Timeslot_ID": "TS024",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 32587,
+  "Course_ID": 1047,
+  "Class_Section": 1,
+  "Room_ID": "NAB272",
+  "Faculty_ID": 700000489,
+  "Timeslot_ID": "TS031",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 24019,
+  "Course_ID": 1219,
+  "Class_Section": 1,
+  "Room_ID": "NAB273",
+  "Faculty_ID": 700000269,
+  "Timeslot_ID": "TS146",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 22189,
+  "Course_ID": 1204,
+  "Class_Section": 1,
+  "Room_ID": "NAB274",
+  "Faculty_ID": 700000232,
+  "Timeslot_ID": "TS150",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 10509,
+  "Course_ID": 1071,
+  "Class_Section": 1,
+  "Room_ID": "NAB275",
+  "Faculty_ID": 700000202,
+  "Timeslot_ID": "TS071",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 25965,
+  "Course_ID": 1176,
+  "Class_Section": 1,
+  "Room_ID": "NAB276",
+  "Faculty_ID": 700000109,
+  "Timeslot_ID": "TS106",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 28758,
+  "Course_ID": 1088,
+  "Class_Section": 2,
+  "Room_ID": "NAB277",
+  "Faculty_ID": 700000349,
+  "Timeslot_ID": "TS053",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 36047,
+  "Course_ID": 1218,
+  "Class_Section": 2,
+  "Room_ID": "NAB278",
+  "Faculty_ID": 700000288,
+  "Timeslot_ID": "TS198",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 32699,
+  "Course_ID": 1195,
+  "Class_Section": 2,
+  "Room_ID": "NAB279",
+  "Faculty_ID": 700000282,
+  "Timeslot_ID": "TS200",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 24112,
+  "Course_ID": 1024,
+  "Class_Section": 1,
+  "Room_ID": "NAB280",
+  "Faculty_ID": 700000224,
+  "Timeslot_ID": "TS170",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 22218,
+  "Course_ID": 1008,
+  "Class_Section": 2,
+  "Room_ID": "NAB281",
+  "Faculty_ID": 700000426,
+  "Timeslot_ID": "TS025",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 10702,
+  "Course_ID": 1126,
+  "Class_Section": 1,
+  "Room_ID": "NAB282",
+  "Faculty_ID": 700000146,
+  "Timeslot_ID": "TS095",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 26025,
+  "Course_ID": 1098,
+  "Class_Section": 1,
+  "Room_ID": "NAB283",
+  "Faculty_ID": 700000295,
+  "Timeslot_ID": "TS055",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 28862,
+  "Course_ID": 1074,
+  "Class_Section": 2,
+  "Room_ID": "NAB284",
+  "Faculty_ID": 700000251,
+  "Timeslot_ID": "TS147",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 36322,
+  "Course_ID": 1041,
+  "Class_Section": 2,
+  "Room_ID": "NAB285",
+  "Faculty_ID": 700000104,
+  "Timeslot_ID": "TS144",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 32784,
+  "Course_ID": 1106,
+  "Class_Section": 1,
+  "Room_ID": "NAB286",
+  "Faculty_ID": 700000153,
+  "Timeslot_ID": "TS162",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 24121,
+  "Course_ID": 1216,
+  "Class_Section": 1,
+  "Room_ID": "NAB287",
+  "Faculty_ID": 700000296,
+  "Timeslot_ID": "TS066",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 22259,
+  "Course_ID": 1160,
+  "Class_Section": 1,
+  "Room_ID": "NAB288",
+  "Faculty_ID": 700000339,
+  "Timeslot_ID": "TS036",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 10774,
+  "Course_ID": 1050,
+  "Class_Section": 2,
+  "Room_ID": "NAB289",
+  "Faculty_ID": 700000495,
+  "Timeslot_ID": "TS183",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 26028,
+  "Course_ID": 1168,
+  "Class_Section": 2,
+  "Room_ID": "NAB290",
+  "Faculty_ID": 700000124,
+  "Timeslot_ID": "TS060",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 29086,
+  "Course_ID": 1180,
+  "Class_Section": 2,
+  "Room_ID": "NAB291",
+  "Faculty_ID": 700000311,
+  "Timeslot_ID": "TS082",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 36474,
+  "Course_ID": 1177,
+  "Class_Section": 1,
+  "Room_ID": "NAB292",
+  "Faculty_ID": 700000413,
+  "Timeslot_ID": "TS037",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 33156,
+  "Course_ID": 1174,
+  "Class_Section": 2,
+  "Room_ID": "NAB293",
+  "Faculty_ID": 700000464,
+  "Timeslot_ID": "TS057",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 24175,
+  "Course_ID": 1052,
+  "Class_Section": 1,
+  "Room_ID": "NAB294",
+  "Faculty_ID": 700000500,
+  "Timeslot_ID": "TS206",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 22317,
+  "Course_ID": 1029,
+  "Class_Section": 1,
+  "Room_ID": "NAB295",
+  "Faculty_ID": 700000496,
+  "Timeslot_ID": "TS193",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 10836,
+  "Course_ID": 1078,
+  "Class_Section": 2,
+  "Room_ID": "SB137",
+  "Faculty_ID": 700000214,
+  "Timeslot_ID": "TS188",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 26048,
+  "Course_ID": 1013,
+  "Class_Section": 2,
+  "Room_ID": "SB138",
+  "Faculty_ID": 700100215,
+  "Timeslot_ID": "TS050",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 29141,
+  "Course_ID": 1214,
+  "Class_Section": 2,
+  "Room_ID": "SB139",
+  "Faculty_ID": 700000194,
+  "Timeslot_ID": "TS075",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 36601,
+  "Course_ID": 1117,
+  "Class_Section": 1,
+  "Room_ID": "SB140",
+  "Faculty_ID": 700000188,
+  "Timeslot_ID": "TS134",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 33339,
+  "Course_ID": 1004,
+  "Class_Section": 1,
+  "Room_ID": "SB141",
+  "Faculty_ID": 700000321,
+  "Timeslot_ID": "TS017",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 16814,
+  "Course_ID": 1139,
+  "Class_Section": 2,
+  "Room_ID": "SB143",
+  "Faculty_ID": 700000301,
+  "Timeslot_ID": "TS078",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 17911,
+  "Course_ID": 1109,
+  "Class_Section": 1,
+  "Room_ID": "SB144",
+  "Faculty_ID": 700000314,
+  "Timeslot_ID": "TS088",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 18753,
+  "Course_ID": 1159,
+  "Class_Section": 1,
+  "Room_ID": "SB145",
+  "Faculty_ID": 700000461,
+  "Timeslot_ID": "TS034",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 25463,
+  "Course_ID": 2045,
+  "Class_Section": 2,
+  "Room_ID": "SB146",
+  "Faculty_ID": 700000387,
+  "Timeslot_ID": "TS120",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 20373,
+  "Course_ID": 1075,
+  "Class_Section": 2,
+  "Room_ID": "SB147",
+  "Faculty_ID": 700000252,
+  "Timeslot_ID": "TS218",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 34259,
+  "Course_ID": 1183,
+  "Class_Section": 1,
+  "Room_ID": "SB148",
+  "Faculty_ID": 700000425,
+  "Timeslot_ID": "TS022",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 37606,
+  "Course_ID": 1220,
+  "Class_Section": 1,
+  "Room_ID": "SB149",
+  "Faculty_ID": 700000187,
+  "Timeslot_ID": "TS201",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 29900,
+  "Course_ID": 1089,
+  "Class_Section": 2,
+  "Room_ID": "SB150",
+  "Faculty_ID": 700010327,
+  "Timeslot_ID": "TS054",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 22493,
+  "Course_ID": 1081,
+  "Class_Section": 2,
+  "Room_ID": "SB151",
+  "Faculty_ID": 700000206,
+  "Timeslot_ID": "TS187",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 20749,
+  "Course_ID": 1040,
+  "Class_Section": 1,
+  "Room_ID": "SB152",
+  "Faculty_ID": 700000356,
+  "Timeslot_ID": "TS021",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 26762,
+  "Course_ID": 1186,
+  "Class_Section": 1,
+  "Room_ID": "SB153",
+  "Faculty_ID": 700000335,
+  "Timeslot_ID": "TS059",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 13901,
+  "Course_ID": 2020,
+  "Class_Section": 2,
+  "Room_ID": "SB154",
+  "Faculty_ID": 700000405,
+  "Timeslot_ID": "TS027",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 32047,
+  "Course_ID": 1206,
+  "Class_Section": 1,
+  "Room_ID": "SB155",
+  "Faculty_ID": 700000222,
+  "Timeslot_ID": "TS101",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 12345,
+  "Course_ID": 1123,
+  "Class_Section": 2,
+  "Room_ID": "SB156",
+  "Faculty_ID": 700000247,
+  "Timeslot_ID": "TS001",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 39131,
+  "Course_ID": 1221,
+  "Class_Section": 1,
+  "Room_ID": "SB157",
+  "Faculty_ID": 700000177,
+  "Timeslot_ID": "TS117",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 24257,
+  "Course_ID": 1190,
+  "Class_Section": 1,
+  "Room_ID": "SB158",
+  "Faculty_ID": 700000481,
+  "Timeslot_ID": "TS110",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 22409,
+  "Course_ID": 1070,
+  "Class_Section": 2,
+  "Room_ID": "SB159",
+  "Faculty_ID": 700000485,
+  "Timeslot_ID": "TS212",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 10889,
+  "Course_ID": 1118,
+  "Class_Section": 2,
+  "Room_ID": "SB160",
+  "Faculty_ID": 700000271,
+  "Timeslot_ID": "TS086",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 26255,
+  "Course_ID": 1158,
+  "Class_Section": 2,
+  "Room_ID": "SB161",
+  "Faculty_ID": 700000404,
+  "Timeslot_ID": "TS143",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 29251,
+  "Course_ID": 1026,
+  "Class_Section": 2,
+  "Room_ID": "SB162",
+  "Faculty_ID": 700000344,
+  "Timeslot_ID": "TS171",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 36632,
+  "Course_ID": 1222,
+  "Class_Section": 2,
+  "Room_ID": "SB163",
+  "Faculty_ID": 700000313,
+  "Timeslot_ID": "TS182",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 33501,
+  "Course_ID": 1097,
+  "Class_Section": 2,
+  "Room_ID": "SB164",
+  "Faculty_ID": 700000108,
+  "Timeslot_ID": "TS118",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 17120,
+  "Course_ID": 1082,
+  "Class_Section": 2,
+  "Room_ID": "SB165",
+  "Faculty_ID": 700000371,
+  "Timeslot_ID": "TS089",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 18189,
+  "Course_ID": 1080,
+  "Class_Section": 2,
+  "Room_ID": "SB166",
+  "Faculty_ID": 700000403,
+  "Timeslot_ID": "TS186",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 19039,
+  "Course_ID": 1039,
+  "Class_Section": 2,
+  "Room_ID": "SB167",
+  "Faculty_ID": 700000219,
+  "Timeslot_ID": "TS020",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 25470,
+  "Course_ID": 1022,
+  "Class_Section": 2,
+  "Room_ID": "SB168",
+  "Faculty_ID": 700000415,
+  "Timeslot_ID": "TS008",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 20468,
+  "Course_ID": 1200,
+  "Class_Section": 2,
+  "Room_ID": "SB169",
+  "Faculty_ID": 700000258,
+  "Timeslot_ID": "TS051",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 34644,
+  "Course_ID": 1028,
+  "Class_Section": 2,
+  "Room_ID": "SB170",
+  "Faculty_ID": 700000324,
+  "Timeslot_ID": "TS160",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 37616,
+  "Course_ID": 1015,
+  "Class_Section": 2,
+  "Room_ID": "SB171",
+  "Faculty_ID": 700000456,
+  "Timeslot_ID": "TS145",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 30005,
+  "Course_ID": 1111,
+  "Class_Section": 2,
+  "Room_ID": "SB172",
+  "Faculty_ID": 700000278,
+  "Timeslot_ID": "TS163",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 22679,
+  "Course_ID": 1132,
+  "Class_Section": 1,
+  "Room_ID": "SB173",
+  "Faculty_ID": 700000459,
+  "Timeslot_ID": "TS207",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 20913,
+  "Course_ID": 1122,
+  "Class_Section": 2,
+  "Room_ID": "SB174",
+  "Faculty_ID": 700000337,
+  "Timeslot_ID": "TS148",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 34741,
+  "Course_ID": 1152,
+  "Class_Section": 1,
+  "Room_ID": "SB175",
+  "Faculty_ID": 700000486,
+  "Timeslot_ID": "TS109",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 38088,
+  "Course_ID": 1067,
+  "Class_Section": 2,
+  "Room_ID": "SB176",
+  "Faculty_ID": 700000267,
+  "Timeslot_ID": "TS136",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 30078,
+  "Course_ID": 1203,
+  "Class_Section": 1,
+  "Room_ID": "SB177",
+  "Faculty_ID": 700000444,
+  "Timeslot_ID": "TS029",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 22751,
+  "Course_ID": 1185,
+  "Class_Section": 2,
+  "Room_ID": "SB178",
+  "Faculty_ID": 700000144,
+  "Timeslot_ID": "TS129",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 21064,
+  "Course_ID": 1087,
+  "Class_Section": 2,
+  "Room_ID": "SB179",
+  "Faculty_ID": 700000342,
+  "Timeslot_ID": "TS121",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 34801,
+  "Course_ID": 1091,
+  "Class_Section": 1,
+  "Room_ID": "SB180",
+  "Faculty_ID": 700000327,
+  "Timeslot_ID": "TS064",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 38304,
+  "Course_ID": 1145,
+  "Class_Section": 2,
+  "Room_ID": "SB181",
+  "Faculty_ID": 700000162,
+  "Timeslot_ID": "TS156",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 30234,
+  "Course_ID": 1064,
+  "Class_Section": 2,
+  "Room_ID": "SB182",
+  "Faculty_ID": 700000266,
+  "Timeslot_ID": "TS192",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 22852,
+  "Course_ID": 1048,
+  "Class_Section": 1,
+  "Room_ID": "SB183",
+  "Faculty_ID": 700000246,
+  "Timeslot_ID": "TS159",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 21094,
+  "Course_ID": 1184,
+  "Class_Section": 1,
+  "Room_ID": "SB184",
+  "Faculty_ID": 700000380,
+  "Timeslot_ID": "TS081",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 35160,
+  "Course_ID": 1053,
+  "Class_Section": 2,
+  "Room_ID": "SB185",
+  "Faculty_ID": 700000208,
+  "Timeslot_ID": "TS072",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 38308,
+  "Course_ID": 1198,
+  "Class_Section": 1,
+  "Room_ID": "SB186",
+  "Faculty_ID": 700000134,
+  "Timeslot_ID": "TS077",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 30696,
+  "Course_ID": 1025,
+  "Class_Section": 1,
+  "Room_ID": "SB187",
+  "Faculty_ID": 700000352,
+  "Timeslot_ID": "TS165",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 23133,
+  "Course_ID": 1107,
+  "Class_Section": 1,
+  "Room_ID": "SB188",
+  "Faculty_ID": 700000472,
+  "Timeslot_ID": "TS047",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 21149,
+  "Course_ID": 1005,
+  "Class_Section": 1,
+  "Room_ID": "SB189",
+  "Faculty_ID": 700000427,
+  "Timeslot_ID": "TS016",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 35275,
+  "Course_ID": 1172,
+  "Class_Section": 1,
+  "Room_ID": "SB190",
+  "Faculty_ID": 700000210,
+  "Timeslot_ID": "TS142",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 38595,
+  "Course_ID": 1036,
+  "Class_Section": 1,
+  "Room_ID": "SB191",
+  "Faculty_ID": 700000136,
+  "Timeslot_ID": "TS216",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 30763,
+  "Course_ID": 1038,
+  "Class_Section": 1,
+  "Room_ID": "SU242",
+  "Faculty_ID": 700000274,
+  "Timeslot_ID": "TS214",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 23247,
+  "Course_ID": 1175,
+  "Class_Section": 2,
+  "Room_ID": "SU243",
+  "Faculty_ID": 700000230,
+  "Timeslot_ID": "TS151",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 21447,
+  "Course_ID": 1148,
+  "Class_Section": 2,
+  "Room_ID": "SU244",
+  "Faculty_ID": 700000193,
+  "Timeslot_ID": "TS056",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 35301,
+  "Course_ID": 1151,
+  "Class_Section": 1,
+  "Room_ID": "SU245",
+  "Faculty_ID": 700000307,
+  "Timeslot_ID": "TS108",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 38600,
+  "Course_ID": 1079,
+  "Class_Section": 1,
+  "Room_ID": "SU246",
+  "Faculty_ID": 700000135,
+  "Timeslot_ID": "TS141",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 31217,
+  "Course_ID": 1020,
+  "Class_Section": 2,
+  "Room_ID": "SU247",
+  "Faculty_ID": 700000395,
+  "Timeslot_ID": "TS185",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 23550,
+  "Course_ID": 1034,
+  "Class_Section": 1,
+  "Room_ID": "SU248",
+  "Faculty_ID": 700000446,
+  "Timeslot_ID": "TS093",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 21464,
+  "Course_ID": 1143,
+  "Class_Section": 1,
+  "Room_ID": "SU249",
+  "Faculty_ID": 700000191,
+  "Timeslot_ID": "TS130",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 26931,
+  "Course_ID": 1136,
+  "Class_Section": 2,
+  "Room_ID": "SU250",
+  "Faculty_ID": 700000490,
+  "Timeslot_ID": "TS172",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 14036,
+  "Course_ID": 1205,
+  "Class_Section": 1,
+  "Room_ID": "SU251",
+  "Faculty_ID": 700000398,
+  "Timeslot_ID": "TS013",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 32079,
+  "Course_ID": 1116,
+  "Class_Section": 1,
+  "Room_ID": "SU252",
+  "Faculty_ID": 700000475,
+  "Timeslot_ID": "TS068",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 12381,
+  "Course_ID": 1043,
+  "Class_Section": 2,
+  "Room_ID": "SU253",
+  "Faculty_ID": 700000260,
+  "Timeslot_ID": "TS154",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 39151,
+  "Course_ID": 1209,
+  "Class_Section": 1,
+  "Room_ID": "SU254",
+  "Faculty_ID": 700000473,
+  "Timeslot_ID": "TS177",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 24363,
+  "Course_ID": 1113,
+  "Class_Section": 2,
+  "Room_ID": "SU255",
+  "Faculty_ID": 700000212,
+  "Timeslot_ID": "TS042",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 22429,
+  "Course_ID": 1044,
+  "Class_Section": 1,
+  "Room_ID": "SU256",
+  "Faculty_ID": 700000325,
+  "Timeslot_ID": "TS153",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 10943,
+  "Course_ID": 1021,
+  "Class_Section": 1,
+  "Room_ID": "SU257",
+  "Faculty_ID": 700000338,
+  "Timeslot_ID": "TS184",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 26337,
+  "Course_ID": 2320,
+  "Class_Section": 2,
+  "Room_ID": "SU258",
+  "Faculty_ID": 700000474,
+  "Timeslot_ID": "TS103",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 29480,
+  "Course_ID": 1194,
+  "Class_Section": 1,
+  "Room_ID": "SU259",
+  "Faculty_ID": 700000142,
+  "Timeslot_ID": "TS061",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 37115,
+  "Course_ID": 1193,
+  "Class_Section": 2,
+  "Room_ID": "SU260",
+  "Faculty_ID": 700000409,
+  "Timeslot_ID": "TS090",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 33645,
+  "Course_ID": 1144,
+  "Class_Section": 1,
+  "Room_ID": "SU261",
+  "Faculty_ID": 700000226,
+  "Timeslot_ID": "TS105",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 17129,
+  "Course_ID": 1017,
+  "Class_Section": 1,
+  "Room_ID": "SU262",
+  "Faculty_ID": 700000139,
+  "Timeslot_ID": "TS107",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 18225,
+  "Course_ID": 1131,
+  "Class_Section": 2,
+  "Room_ID": "SU263",
+  "Faculty_ID": 700000493,
+  "Timeslot_ID": "TS131",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 19048,
+  "Course_ID": 1066,
+  "Class_Section": 2,
+  "Room_ID": "SU264",
+  "Faculty_ID": 700000297,
+  "Timeslot_ID": "TS135",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 25485,
+  "Course_ID": 4460,
+  "Class_Section": 2,
+  "Room_ID": "SU265",
+  "Faculty_ID": 700000377,
+  "Timeslot_ID": "TS067",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 20524,
+  "Course_ID": 1130,
+  "Class_Section": 1,
+  "Room_ID": "SU266",
+  "Faculty_ID": 700000351,
+  "Timeslot_ID": "TS046",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 35469,
+  "Course_ID": 1161,
+  "Class_Section": 1,
+  "Room_ID": "SU267",
+  "Faculty_ID": 700000186,
+  "Timeslot_ID": "TS217",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 38621,
+  "Course_ID": 1101,
+  "Class_Section": 2,
+  "Room_ID": "SU268",
+  "Faculty_ID": 700000468,
+  "Timeslot_ID": "TS010",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 31419,
+  "Course_ID": 1011,
+  "Class_Section": 1,
+  "Room_ID": "SU269",
+  "Faculty_ID": 700000145,
+  "Timeslot_ID": "TS161",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 23678,
+  "Course_ID": 1095,
+  "Class_Section": 2,
+  "Room_ID": "SU270",
+  "Faculty_ID": 700000218,
+  "Timeslot_ID": "TS189",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 21620,
+  "Course_ID": 1055,
+  "Class_Section": 2,
+  "Room_ID": "SU271",
+  "Faculty_ID": 700000462,
+  "Timeslot_ID": "TS073",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 27280,
+  "Course_ID": 1146,
+  "Class_Section": 1,
+  "Room_ID": "SU272",
+  "Faculty_ID": 700000394,
+  "Timeslot_ID": "TS097",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 14362,
+  "Course_ID": 1140,
+  "Class_Section": 2,
+  "Room_ID": "SU273",
+  "Faculty_ID": 700000273,
+  "Timeslot_ID": "TS100",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 32118,
+  "Course_ID": 1156,
+  "Class_Section": 1,
+  "Room_ID": "SU274",
+  "Faculty_ID": 700000123,
+  "Timeslot_ID": "TS111",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 12417,
+  "Course_ID": 1014,
+  "Class_Section": 1,
+  "Room_ID": "SU275",
+  "Faculty_ID": 700000375,
+  "Timeslot_ID": "TS044",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 39423,
+  "Course_ID": 1092,
+  "Class_Section": 1,
+  "Room_ID": "SU276",
+  "Faculty_ID": 700000402,
+  "Timeslot_ID": "TS038",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 27344,
+  "Course_ID": 1119,
+  "Class_Section": 2,
+  "Room_ID": "SU277",
+  "Faculty_ID": 700000158,
+  "Timeslot_ID": "TS125",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 14416,
+  "Course_ID": 1083,
+  "Class_Section": 2,
+  "Room_ID": "SU278",
+  "Faculty_ID": 700000414,
+  "Timeslot_ID": "TS087",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 32133,
+  "Course_ID": 1108,
+  "Class_Section": 2,
+  "Room_ID": "SU279",
+  "Faculty_ID": 700000442,
+  "Timeslot_ID": "TS018",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 12640,
+  "Course_ID": 1065,
+  "Class_Section": 1,
+  "Room_ID": "SU280",
+  "Faculty_ID": 700000391,
+  "Timeslot_ID": "TS157",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 39500,
+  "Course_ID": 1104,
+  "Class_Section": 2,
+  "Room_ID": "SU281",
+  "Faculty_ID": 700000213,
+  "Timeslot_ID": "TS048",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 27474,
+  "Course_ID": 1199,
+  "Class_Section": 1,
+  "Room_ID": "SU282",
+  "Faculty_ID": 700000189,
+  "Timeslot_ID": "TS098",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 14446,
+  "Course_ID": 1129,
+  "Class_Section": 2,
+  "Room_ID": "SU283",
+  "Faculty_ID": 700000234,
+  "Timeslot_ID": "TS211",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 32137,
+  "Course_ID": 1068,
+  "Class_Section": 2,
+  "Room_ID": "SU284",
+  "Faculty_ID": 700000390,
+  "Timeslot_ID": "TS139",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 12850,
+  "Course_ID": 1217,
+  "Class_Section": 2,
+  "Room_ID": "SU285",
+  "Faculty_ID": 700000105,
+  "Timeslot_ID": "TS202",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 39816,
+  "Course_ID": 1134,
+  "Class_Section": 2,
+  "Room_ID": "SU286",
+  "Faculty_ID": 700000276,
+  "Timeslot_ID": "TS128",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 27851,
+  "Course_ID": 1125,
+  "Class_Section": 2,
+  "Room_ID": "SU287",
+  "Faculty_ID": 700000431,
+  "Timeslot_ID": "TS174",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 15186,
+  "Course_ID": 1127,
+  "Class_Section": 2,
+  "Room_ID": "SU288",
+  "Faculty_ID": 700000221,
+  "Timeslot_ID": "TS190",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 32235,
+  "Course_ID": 1096,
+  "Class_Section": 1,
+  "Room_ID": "SU289",
+  "Faculty_ID": 700000328,
+  "Timeslot_ID": "TS065",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 13044,
+  "Course_ID": 1202,
+  "Class_Section": 2,
+  "Room_ID": "SU290",
+  "Faculty_ID": 700000205,
+  "Timeslot_ID": "TS028",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 39901,
+  "Course_ID": 1153,
+  "Class_Section": 2,
+  "Room_ID": "SU291",
+  "Faculty_ID": 700000110,
+  "Timeslot_ID": "TS167",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 27908,
+  "Course_ID": 2010,
+  "Class_Section": 1,
+  "Room_ID": "SU292",
+  "Faculty_ID": 700000231,
+  "Timeslot_ID": "TS122",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 15427,
+  "Course_ID": 1102,
+  "Class_Section": 1,
+  "Room_ID": "SU293",
+  "Faculty_ID": 700000396,
+  "Timeslot_ID": "TS124",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 32252,
+  "Course_ID": 1033,
+  "Class_Section": 1,
+  "Room_ID": "SU294",
+  "Faculty_ID": 700000326,
+  "Timeslot_ID": "TS092",
+  "Semester_Year": "S0016"
+ },
+ {
+  "CRN": 13152,
+  "Course_ID": 1027,
+  "Class_Section": 1,
+  "Room_ID": "SU295",
+  "Faculty_ID": 700000336,
+  "Timeslot_ID": "TS166",
+  "Semester_Year": "S0016"
+ }
+]

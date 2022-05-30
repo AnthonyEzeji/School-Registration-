@@ -1,0 +1,26 @@
+.register{
+    display: flex;
+    width: 100vw;
+    height:100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+background-color:rgb(15, 138, 219) ;
+}
+.register>Button{
+    width:fit-content;
+    height: fit-content;
+    text-align: center;
+    background-color: aliceblue;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+    margin-top:30px;
+}
+.register2{
+    display: flex;
+    width: 100vw;
+    height:100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}

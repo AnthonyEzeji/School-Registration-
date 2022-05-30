@@ -1,0 +1,76 @@
+.student-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    width: 100vw;
+    height: 100vh;
+}
+.info-container{
+    display:flex ;
+    border-radius: 10px;
+ position: absolute;
+ top: 10%;
+ 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: fit-content;
+    padding:20px;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+.info-field{
+    background-color: aliceblue;
+    width: 200px;
+height: fit-content;
+display: flex;
+flex-direction: column;
+margin:5px;
+align-items: center;
+justify-content: center;
+}
+.info-field>h5{
+    text-align: center;
+    margin:0
+}
+Input{
+    width: fit-content;
+    text-align: center;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.267);
+   
+}
+#button-save{
+
+    position: absolute;
+    
+    top:70%;
+    background-color: aliceblue;
+    width: 290px;
+    border:5px solid rgba(0, 0, 0, 0.432);
+    color: black;
+    font-weight: 700;
+}.student-info2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(177, 145, 6);
+    width: 100vw;
+    height: 100vh;
+}
+.advisor{
+    position: absolute;
+    top: 80%;
+    width: fit-content;
+    height: fit-content;
+    background-color: rgb(251, 255, 0);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;;
+}
+.advisor>h5{
+    margin: 0;
+    background-color: aliceblue;
+    padding: 5px;;
+}

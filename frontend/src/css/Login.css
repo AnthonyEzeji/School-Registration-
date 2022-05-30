@@ -1,0 +1,56 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height:100%; 
+}
+.form-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(147, 148, 148);
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+#input{
+    margin:10px;
+    color: black;
+    text-align: center;
+    background-color: aliceblue;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+    
+}
+#button{
+    margin-top:20px ;
+    background-color: aliceblue;
+    width: 50%;
+    
+    color: rgb(75, 73, 73);
+    font-weight: 700;
+    text-shadow: 1px 1px  grey;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+.auto-btn{
+    background-color: aliceblue;
+    border:1px solid black
+}
+.autofill{
+    margin-top:20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btns>Button{
+    background-color: aliceblue;
+    margin: 10px;
+    color: black;
+    font-weight: 500;
+
+}

@@ -1,0 +1,40 @@
+.edit-class{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.edit-field{
+    display: flex;
+    justify-content: flex-start;
+    align-items:center ;
+    text-align: center;
+    background-color: cornflowerblue;
+    margin: 10px;;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+border-radius: 20px;
+padding: 3px;
+}
+
+#edit-input{
+    background-color: rgb(255, 255, 255);
+    
+} 
+.edit-container{
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 20px;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+.edit-field>p{
+    background-color: darkgoldenrod;
+    margin:10px;
+}

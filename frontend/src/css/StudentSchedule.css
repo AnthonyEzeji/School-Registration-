@@ -1,0 +1,26 @@
+.schedule-class{
+background-color: rgb(131, 138, 138);
+margin:10px; 
+width: 80vw;
+display: flex;
+flex-direction: row;
+height: fit-content;
+padding:20px;
+justify-content: space-evenly;
+}
+.schedule{
+    width: 100vw;
+    background-color: rgb(15, 138, 219);;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.schedule-class>p{
+    text-align: center;
+    background-color: aliceblue;
+
+padding:10px;
+    min-width: 150px;
+}

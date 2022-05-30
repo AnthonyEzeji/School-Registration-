@@ -1,0 +1,29 @@
+.courses{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100vw;
+    height: 100vh;
+}
+#courses-btn{
+    background-color: aliceblue;
+    width:50vw;
+}
+.add-course{
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    width: fit-content;
+   
+
+}
+#input{
+margin:10px;
+}
+#demo-simple-select{
+
+    margin-top:10px;
+}
