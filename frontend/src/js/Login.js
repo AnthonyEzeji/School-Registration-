@@ -21,7 +21,7 @@ function Login() {
   useEffect(async () => {
     if(window.sessionStorage.hasOwnProperty('session')){
       if( window.sessionStorage.getItem('session')!=null){
-        await axios.post('https://54.196.9.169:5001/api/login', {Email : JSON.parse(window.sessionStorage.getItem('session')).user.Email, Password:JSON.parse(window.sessionStorage.getItem('session')).user.Password}).then(res=>{
+        await axios.post('http://54.221.48.20:5001/api/login', {Email : JSON.parse(window.sessionStorage.getItem('session')).user.Email, Password:JSON.parse(window.sessionStorage.getItem('session')).user.Password}).then(res=>{
           console.log(res.data)
           if(res.data.isAuth){
             
@@ -75,7 +75,7 @@ function Login() {
     async function  onClickHandler(e){
       const win = window.sessionStorage;
      
-        axios.post('https://54.196.9.169:5001/api/login/', {Email : credentials.email, Password:credentials.password}).then(res=>{
+        axios.post('http://54.221.48.20:5001/api/login/', {Email : credentials.email, Password:credentials.password}).then(res=>{
           console.log(res.data)
           if(res.data.isAuth){
             

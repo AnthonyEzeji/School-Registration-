@@ -24,7 +24,7 @@ function FacultyInfo() {
     }
     useEffect(async () => {
         var temp = []
-      await axios.get('https://54.196.9.169:5001/api/users').then(res=>{
+      await axios.get('http://54.221.48.20:5001/api/users').then(res=>{
           console.log(res.data)
          for(var i = 0; i < res.data.length;i++){
              if(res.data[i].UserType =='Student'){
@@ -49,7 +49,7 @@ function FacultyInfo() {
    
   
   
-await axios.patch(`https://54.196.9.169:5001/api/users/${currentFaculty.UserID}`, {Password,Email,UserType}).then(res=>{
+await axios.patch(`http://54.221.48.20:5001/api/users/${currentFaculty.UserID}`, {Password,Email,UserType}).then(res=>{
     console.log(res.data)
 })
     }
@@ -66,10 +66,10 @@ await axios.patch(`https://54.196.9.169:5001/api/users/${currentFaculty.UserID}`
     const [selectionModel, setSelectionModel] = useState([]);
     async function handleDeleteClick(e, cellValues){
         console.log(cellValues)
-        await axios.delete('https://54.196.9.169:5001/api/advisor', {data:{FirstName:cellValues.row.FirstName, LastName: cellValues.row.LastName}})
+        await axios.delete('http://54.221.48.20:5001/api/advisor', {data:{FirstName:cellValues.row.FirstName, LastName: cellValues.row.LastName}})
     }
     useEffect(async () => {
-       await axios.get(`https://54.196.9.169:5001/api/advisor/advisees/${JSON.parse(window.sessionStorage.getItem('current-faculty')).UserID}`).then(res=>{
+       await axios.get(`http://54.221.48.20:5001/api/advisor/advisees/${JSON.parse(window.sessionStorage.getItem('current-faculty')).UserID}`).then(res=>{
            setAdvisees(res.data)
        })
           }, [])
@@ -97,7 +97,7 @@ await axios.patch(`https://54.196.9.169:5001/api/users/${currentFaculty.UserID}`
           
           ];
          async function handleAddClick (){
-await axios.post(`https://54.196.9.169:5001/api/advisor/${JSON.parse(window.sessionStorage.getItem('current-faculty')).UserID}`, {student, Faculty_ID:JSON.parse(window.sessionStorage.getItem('current-faculty')).UserID})
+await axios.post(`http://54.221.48.20:5001/api/advisor/${JSON.parse(window.sessionStorage.getItem('current-faculty')).UserID}`, {student, Faculty_ID:JSON.parse(window.sessionStorage.getItem('current-faculty')).UserID})
           }
     return (
     <div className = ' faculty-info'>

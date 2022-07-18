@@ -8,7 +8,7 @@ const https = require('https')
 const path = require('path')
 
 
-const DB = PROCESS.ENV.DB
+const DB = process.env.DB
 const LoginRoutes = require('./Routes/LoginRoutes')
 const session = require('express-session')
  mongoose.connect(DB,{useNewUrlParser: true,
@@ -93,7 +93,7 @@ const sslServer = https.createServer(
     },
     app
   )
-  sslServer.listen(PORT, () => console.log('Secure server on port 5001'))
+  app.listen(PORT, () => console.log('server running on port 5001'))
 
 
 

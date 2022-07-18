@@ -13,12 +13,12 @@ function DegreeAudit() {
   
 useEffect(() => {
   if(JSON.parse(window.sessionStorage.getItem("session")).user.UserType=="Student"){
-    axios.get(`https://54.196.9.169:5001/api/enrollment/${JSON.parse(window.sessionStorage.getItem("session")).user.UserID}`).then(res=>{
+    axios.get(`http://54.221.48.20:5001/api/enrollment/${JSON.parse(window.sessionStorage.getItem("session")).user.UserID}`).then(res=>{
 
       setStudentEnrollments(res.data)
     })
   }else{
-    axios.get(`https://54.196.9.169:5001/api/enrollment/${JSON.parse(window.sessionStorage.getItem("current-student")).UserID}`).then(res=>{
+    axios.get(`http://54.221.48.20:5001/api/enrollment/${JSON.parse(window.sessionStorage.getItem("current-student")).UserID}`).then(res=>{
 
   setStudentEnrollments(res.data)
 })
@@ -26,12 +26,12 @@ useEffect(() => {
 
 }, [])
 useEffect(async () => {if(JSON.parse(window.sessionStorage.getItem("session")).user.UserType=="Student"){
-  await axios.get(`https://54.196.9.169:5001/api/majorrequirements/${JSON.parse(window.sessionStorage.getItem("session")).user.UserID}`).then(res=>{
+  await axios.get(`http://54.221.48.20:5001/api/majorrequirements/${JSON.parse(window.sessionStorage.getItem("session")).user.UserID}`).then(res=>{
     console.log(res.data)
     setStudentMajorReq(res.data)
   })
 }else{
- await axios.get(`https://54.196.9.169:5001/api/majorrequirements/${JSON.parse(window.sessionStorage.getItem("current-student")).UserID}`).then(res=>{
+ await axios.get(`http://54.221.48.20:5001/api/majorrequirements/${JSON.parse(window.sessionStorage.getItem("current-student")).UserID}`).then(res=>{
     console.log(res.data)
     setStudentMajorReq(res.data)
   })
@@ -41,7 +41,7 @@ useEffect(async () => {if(JSON.parse(window.sessionStorage.getItem("session")).u
 
   useEffect(async () => {
     if(JSON.parse(window.sessionStorage.getItem("session")).user.UserType=="Student"){
-      await  axios.get(`https://54.196.9.169:5001/api/degree-audit/${JSON.parse(window.sessionStorage.getItem("session")).user.UserID}`).then(res=>{
+      await  axios.get(`http://54.221.48.20:5001/api/degree-audit/${JSON.parse(window.sessionStorage.getItem("session")).user.UserID}`).then(res=>{
         var sum = 0;
         for(var i = 0 ; i < studentHistory.length;i++){
           console.log(studentHistory[i].Course.Grade)
@@ -76,7 +76,7 @@ useEffect(async () => {if(JSON.parse(window.sessionStorage.getItem("session")).u
          
        })
     }else{
-      await  axios.get(`https://54.196.9.169:5001/api/degree-audit/${JSON.parse(window.sessionStorage.getItem("current-student")).UserID}`).then(res=>{
+      await  axios.get(`http://54.221.48.20:5001/api/degree-audit/${JSON.parse(window.sessionStorage.getItem("current-student")).UserID}`).then(res=>{
         var sum = 0;
         for(var i = 0 ; i < studentHistory.length;i++){
           console.log(studentHistory[i].Course.Grade)
@@ -117,7 +117,7 @@ useEffect(async () => {if(JSON.parse(window.sessionStorage.getItem("session")).u
 
   }, []);
     useEffect(async() => {
- await axios.get(`https://54.196.9.169:5001/api/studentmajors/${JSON.parse(window.sessionStorage.getItem("session")).user.UserID}`).then(res=>{
+ await axios.get(`http://54.221.48.20:5001/api/studentmajors/${JSON.parse(window.sessionStorage.getItem("session")).user.UserID}`).then(res=>{
    
    setStudentMajor(res.data)
    

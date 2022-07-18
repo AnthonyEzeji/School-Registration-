@@ -14,7 +14,7 @@ function UserPage() {
     const [email, setEmail] = useState("")
 
         useEffect(() => {
-     axios.get(`https://54.196.9.169:5001/api/users/userpage/${UserID}`).then(res=>{
+     axios.get(`http://54.221.48.20:5001/api/users/userpage/${UserID}`).then(res=>{
          setUser(res.data)
          console.log(res.data)
          
@@ -23,7 +23,7 @@ function UserPage() {
      
     }, [UserID])
     useEffect(() => {
-        axios.get(`https://54.196.9.169:5001/api/holds/${UserID}`).then(res=>{
+        axios.get(`http://54.221.48.20:5001/api/holds/${UserID}`).then(res=>{
             console.log(res.data)
             setUserHolds(res.data)
         })
@@ -34,7 +34,7 @@ function UserPage() {
     }
     function handleRemoveClick(event){
         const data = {UserID,HOLD_ID:userHolds[0].HOLD_ID}
-        axios.delete('https://54.196.9.169:5001/api/holds',{data}).then(res=>{
+        axios.delete('http://54.221.48.20:5001/api/holds',{data}).then(res=>{
             console.log(res.data)
         })
        
@@ -44,7 +44,7 @@ function UserPage() {
     const win = window.sessionStorage;
     const address = user.Street + ", " + user.City+", " + user.State
     function handleAddHoldClick(event){
-      axios.post('https://54.196.9.169:5001/api/holds', {UserID,holdSelected})
+      axios.post('http://54.221.48.20:5001/api/holds', {UserID,holdSelected})
     }
    
   return (

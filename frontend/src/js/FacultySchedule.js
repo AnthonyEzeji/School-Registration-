@@ -13,7 +13,7 @@ navigate(`/faculty-class/faculty-schedule`)
   }
   const [classes, setClasses] = useState([])
     useEffect( async () => {
-  await axios.get(`https://54.196.9.169:5001/api/faculty-class/${JSON.parse(window.sessionStorage.getItem('current-faculty')).UserID}`).then(res=>{
+  await axios.get(`http://54.221.48.20:5001/api/faculty-class/${JSON.parse(window.sessionStorage.getItem('current-faculty')).UserID}`).then(res=>{
     console.log(res.data)
     setClasses(res.data)
   })
@@ -26,7 +26,7 @@ navigate(`/faculty-class/faculty-schedule`)
 {classes.map((obj, index)=> (
 <div className = 'faculty-schedule-class' key= {index}>
 <p>CRN</p>
-<Button value={obj.CRN} onClick = {(e)=>handleClick(e)}>{obj.CRN}<Search></Search></Button>
+<Button value={parseInt(obj.CRN)} onClick = {(e)=>handleClick(e)}>{obj.CRN}<Search></Search></Button>
 
 <h5>{obj.CourseName}</h5>
 <p>Day</p>

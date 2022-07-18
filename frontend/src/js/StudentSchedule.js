@@ -5,7 +5,7 @@ import DrawerMenu2 from './DrawerMenu2';
 function StudentSchedule() {
     const [schedule, setSchedule] = useState([]);
     useEffect(async () => {
-     await axios.get(`https://54.196.9.169:5001/api/scheduleclass/${JSON.parse(window.sessionStorage.getItem("current-student")).UserID}`).then(res=>{
+     await axios.get(`http://54.221.48.20:5001/api/scheduleclass/${JSON.parse(window.sessionStorage.getItem("current-student")).UserID}`).then(res=>{
          setSchedule(res.data)
      })
     }, [])

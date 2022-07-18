@@ -83,7 +83,7 @@ navigate(`/enrollment/${JSON.parse(window.sessionStorage.getItem("session")).use
     
       const [schedule, setSchedule] = useState([]);
         useEffect(() => {
-    axios.get("https://54.196.9.169:5001/api/masterschedule").then(res=>{
+    axios.get("http://54.221.48.20:5001/api/masterschedule").then(res=>{
         setSchedule(res.data)
     })
     }, [])
@@ -95,7 +95,7 @@ navigate(`/enrollment/${JSON.parse(window.sessionStorage.getItem("session")).use
       var session = JSON.parse(sessionStorage.getItem('session'))
       
     function handleOnClick(e){
-        axios.post(`https://54.196.9.169:5001/api/enrollment/`,{data:selectionModel, session:session} ).then(res=>{
+        axios.post(`http://54.221.48.20:5001/api/enrollment/`,{data:selectionModel, session:session} ).then(res=>{
           if(res.data.hasOwnProperty("CRN")){
             alert("Student: " + JSON.parse(window.sessionStorage.getItem('session')).user.UserID + " registered for class:" +res.data.CRN)
           }

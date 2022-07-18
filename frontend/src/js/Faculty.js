@@ -12,7 +12,7 @@ function Faculty() {
     const [selectionModel, setSelectionModel] = useState([]);
     var navigate = useNavigate()
     async function handleClick (e,cellValues){
-        await axios.get(`https://54.196.9.169:5001/api/users/${cellValues.id}`).then(res=>{
+        await axios.get(`http://54.221.48.20:5001/api/users/${cellValues.id}`).then(res=>{
            
             window.sessionStorage.setItem('current-faculty', JSON.stringify(res.data))
             console.log(JSON.parse(window.sessionStorage.getItem('current-faculty')))
@@ -51,7 +51,7 @@ function Faculty() {
       var rows = users;
       useEffect(async () => {
         
-        await axios.get('https://54.196.9.169:5001/api/users').then(res=>{
+        await axios.get('http://54.221.48.20:5001/api/users').then(res=>{
           var tempArr = [res.data.length]
           var tempArr2 = []
           for (var i = res.data.length-1; i>=0 ; i-- ){

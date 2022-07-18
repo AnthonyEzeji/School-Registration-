@@ -9,7 +9,7 @@ import DrawerMenu2 from './DrawerMenu2';
 function DropEnrollment() {
   var navigate = useNavigate()
   async function onClick(e){
-await axios.delete(`https://54.196.9.169:5001/api/enrollment/${JSON.parse(window.sessionStorage.getItem("current-student")).UserID}`,{data:selectionModel}).then(res=>{
+await axios.delete(`http://54.221.48.20:5001/api/enrollment/${JSON.parse(window.sessionStorage.getItem("current-student")).UserID}`,{data:selectionModel}).then(res=>{
   console.log(res.data)
 })
   }
@@ -24,7 +24,7 @@ await axios.delete(`https://54.196.9.169:5001/api/enrollment/${JSON.parse(window
   ];
   const [studentEnrollments,setStudentEnrollments] = useState([])
   useEffect(async () => {
-    await axios.get(`https://54.196.9.169:5001/api/enrollment/${JSON.parse(window.sessionStorage.getItem("current-student")).UserID}`).then(res=>{
+    await axios.get(`http://54.221.48.20:5001/api/enrollment/${JSON.parse(window.sessionStorage.getItem("current-student")).UserID}`).then(res=>{
     console.log(res.data)
       setStudentEnrollments(res.data)
     })

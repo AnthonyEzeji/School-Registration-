@@ -10,7 +10,7 @@ function GiveGrade() {
 var navigate = useNavigate()
   const [grade, setGrade] = useState('');
   useEffect(async() => {
-    await axios.get(`https://54.196.9.169:5001/grades/${JSON.parse(window.sessionStorage.getItem('curr-class'))}/${JSON.parse(window.sessionStorage.getItem('current-student')).UserID}`).then(res=>{
+    await axios.get(`http://54.221.48.20:5001/grades/${JSON.parse(window.sessionStorage.getItem('curr-class'))}/${JSON.parse(window.sessionStorage.getItem('current-student')).UserID}`).then(res=>{
       setGrade(res.data)
       console.log(res.data)
     })
@@ -22,7 +22,7 @@ var navigate = useNavigate()
   }, [grade]);
 
   async function onClick(){
-await axios.post('https://54.196.9.169:5001/api/grades',{Student_ID:JSON.parse(window.sessionStorage.getItem('current-student')).UserID, CRN:JSON.parse(window.sessionStorage.getItem('curr-class')), Grade:grade} ).then(res=>{
+await axios.post('http://54.221.48.20:5001/api/grades',{Student_ID:JSON.parse(window.sessionStorage.getItem('current-student')).UserID, CRN:JSON.parse(window.sessionStorage.getItem('curr-class')), Grade:grade} ).then(res=>{
   console.log(res.data)
 })
 navigate("/faculty-class/faculty-schedule")

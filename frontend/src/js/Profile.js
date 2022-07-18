@@ -18,7 +18,7 @@ function Profile() {
     
     useEffect(() => {
         
-        return   axios.get(`https://54.196.9.169:5001/api/users/${userObj.UserID}`).then(doc=>{
+        return   axios.get(`http://54.221.48.20:5001/api/users/${userObj.UserID}`).then(doc=>{
                
                 
                 
