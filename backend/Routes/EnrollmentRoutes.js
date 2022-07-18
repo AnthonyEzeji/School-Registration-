@@ -120,11 +120,18 @@ router.post('/:UserID',  async(req,res)=>{
     await MasterScheduleModel.findById(req.body.data[0]).then((doc,err)=>{
         if(err){
             console.log(err)
+            return res.send({message:err})
         }else{
-            requestedClass = doc
+            if(doc){
+                requestedClass = doc
+            }
+            else{
+                return res.send({message:'Class not available'})
+            }
         }
     })
     var bool = true;
+    
     if(requestedClass.Year != 2022 && requestedClass.Semester != "FALL"){
         bool = false 
         return res.send({message:"Cannot register for a past or current semester"})
