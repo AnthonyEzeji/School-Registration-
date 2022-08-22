@@ -19,7 +19,7 @@ function EditClass() {
     
     useEffect(async () => {
       
-      await axios.get(`http://54.221.48.20:5001/api/masterschedule/${window.sessionStorage.getItem('current-faculty')}`).then(res=>{
+      await axios.get(`3.87.187.44:5001/api/masterschedule/${window.sessionStorage.getItem('current-faculty')}`).then(res=>{
           
           setCurrClass(res.data)
           console.log(currClass)

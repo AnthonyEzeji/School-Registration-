@@ -54,7 +54,7 @@ function handleFirstNameChange(e){
 }
 function handleDeleteUserClick(e){
 
-  axios.delete('http://54.221.48.20:5001/api/users',  {data:{selectionModel}}).then(doc=>{
+  axios.delete('3.87.187.44:5001/api/users',  {data:{selectionModel}}).then(doc=>{
 console.log(doc)
   })
 }
@@ -65,7 +65,7 @@ function handleLastNameChange(e){
   const handleClick = (event, cellValues) => {
     setNewUser({...newUser,UserType:UserType})
     console.log(newUser);
-    axios.post('http://54.221.48.20:5001/api/users',{newUser}).then(res=>
+    axios.post('3.87.187.44:5001/api/users',{newUser}).then(res=>
       console.log(res)
     )
     
@@ -89,7 +89,7 @@ function handleLastNameChange(e){
    
     useEffect(async () => {
         
-    await axios.get('http://54.221.48.20:5001/api/users').then(res=>{
+    await axios.get('3.87.187.44:5001/api/users').then(res=>{
       var tempArr = [res.data.length]
       for (var i = res.data.length-1; i>=0 ; i-- ){
         tempArr[(res.data.length-1)-i]=res.data[i]

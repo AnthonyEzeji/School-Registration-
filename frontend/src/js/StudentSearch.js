@@ -42,7 +42,7 @@ function StudentSearch() {
       
       useEffect(async () => {
         
-        await axios.get('http://54.221.48.20:5001/api/users').then(res=>{
+        await axios.get('3.87.187.44:5001/api/users').then(res=>{
           var tempArr = [res.data.length]
           for (var i = res.data.length-1; i>=0 ; i-- ){
             tempArr[(res.data.length-1)-i]=res.data[i]
@@ -56,13 +56,13 @@ function StudentSearch() {
         var rows = users;
         const navigate = useNavigate()
        async function handleClick (e,cellValues){
-            await axios.get(`http://54.221.48.20:5001/api/users/${cellValues.id}`).then(res=>{
+            await axios.get(`3.87.187.44:5001/api/users/${cellValues.id}`).then(res=>{
                
                 window.sessionStorage.setItem('current-student', JSON.stringify(res.data))
                 
                 
             })
-            await axios.get(`http://54.221.48.20:5001/api/studentmajors/${JSON.parse(window.sessionStorage.getItem('current-student')).UserID}`).then(res=>{
+            await axios.get(`3.87.187.44:5001/api/studentmajors/${JSON.parse(window.sessionStorage.getItem('current-student')).UserID}`).then(res=>{
                 window.sessionStorage.setItem('major', JSON.stringify({major:res.data.majorName}))
                 navigate(`/student-info/${JSON.parse(window.sessionStorage.getItem('current-student')).UserID.toString()}`)
         })

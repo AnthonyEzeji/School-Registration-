@@ -9,7 +9,7 @@ function AllAdvisors() {
     const [advisors, setAdvisors] = useState([])
     const [selectionModel, setSelectionModel] = useState([]);
     useEffect(async () => {
-     await axios.get('http://54.221.48.20:5001/api/advisor').then(res=>{
+     await axios.get('3.87.187.44:5001/api/advisor').then(res=>{
          
          setAdvisors(res.data)
      })

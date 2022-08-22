@@ -167,9 +167,17 @@ router.post('/:UserID',  async(req,res)=>{
         
         }
         if(bool){
-            await MasterScheduleModel.findOneAndUpdate({CRN:requestedClass.CRN, Year:2022}, {AvailableSeats:requestedClass.AvaiableSeats-1}).then(doc=>{
-                console.log('updated class',doc)
-            })
+            if(requestedClass.AvailableSeats!=null&&requestedClass.AvailableSeats>0){
+                try {
+                    await MasterScheduleModel.findOneAndUpdate({CRN:requestedClass.CRN, Year:2022}, {AvailableSeats:requestedClass.AvaiableSeats-1 }).then(doc=>{
+                        console.log('updated class',doc)
+                    })
+                } catch (error) {
+                    console.log(error)
+                }
+
+            }
+           
         }
     }else{
         

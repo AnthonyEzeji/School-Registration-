@@ -68,7 +68,7 @@ console.log(currFaculty._id)
    useEffect(async () => {
      
      console.log(JSON.parse(window.sessionStorage.getItem('current-faculty')).UserID)
-    await axios.get(`http://54.221.48.20:5001/api/faculty-class/${currFaculty.UserID}`).then(res=>{
+    await axios.get(`3.87.187.44:5001/api/faculty-class/${currFaculty.UserID}`).then(res=>{
       console.log(res.data)
       if(res.data.length>0){
         setClasses(res.data)

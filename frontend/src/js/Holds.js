@@ -44,7 +44,7 @@ function Holds() {
       ];
     const [holds, setHolds] = useState([]);
     useEffect(() => {
-   axios.get('http://54.221.48.20:5001/api/holds').then(res=>{
+   axios.get('3.87.187.44:5001/api/holds').then(res=>{
        
        setHolds(res.data)
        

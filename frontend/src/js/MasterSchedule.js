@@ -100,12 +100,12 @@ function MasterSchedule() {
   const [schedule, setSchedule] = useState([]);
   
   function handleDeleteClick(e){
-    axios.delete("http://54.221.48.20:5001/api/masterschedule",{data:{selectionModel}}).then(res=>{
+    axios.delete("3.87.187.44:5001/api/masterschedule",{data:{selectionModel}}).then(res=>{
       alert("The class associated with CRN: "+JSON.stringify(res.data.CRN)+ " has been deleted");
    })
   }
   useEffect(() => {
-      axios.get("http://54.221.48.20:5001/api/masterschedule").then(res=>{
+      axios.get("3.87.187.44:5001/api/masterschedule").then(res=>{
          setSchedule(res.data)
       })
       
@@ -114,7 +114,7 @@ function MasterSchedule() {
       };
   }, []);
   useEffect(() => {
-    axios.get("http://54.221.48.20:5001/api/courses").then(res=>{
+    axios.get("3.87.187.44:5001/api/courses").then(res=>{
        setCourses(res.data)
     })
     
@@ -131,7 +131,7 @@ function MasterSchedule() {
       CRN,CourseID,CourseName:CourseName, Section, Day, RoomNumber, Building, ProfessorFirstName, ProfessorLastName, EndTime, StartTime,TotalSeats, AvailableSeats,Semester
 
     }
-    await axios.post('http://54.221.48.20:5001/api/masterschedule', obj).then(res=>{
+    await axios.post('3.87.187.44:5001/api/masterschedule', obj).then(res=>{
       if(res.data.hasOwnProperty('message')){
         alert(res.data.message)
       }else{

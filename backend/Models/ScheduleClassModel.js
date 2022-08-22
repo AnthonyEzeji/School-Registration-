@@ -14,6 +14,7 @@ const schema = mongoose.Schema( {
   Day: String,
   Semester: String,
   Year:Number,
+
     })
 
 const model = mongoose.model('ScheduleClass', schema);

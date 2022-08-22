@@ -7,7 +7,7 @@ import { useNavigate } from 'react-router-dom';
 function AdminAddEnrollments() {
     const [schedule, setSchedule] = useState([]);
     useEffect(() => {
-axios.get("http://54.221.48.20:5001/api/masterschedule").then(res=>{
+axios.get("3.87.187.44:5001/api/masterschedule").then(res=>{
     setSchedule(res.data)
 })
 }, [])
@@ -83,7 +83,7 @@ var navigate = useNavigate()
     var rows = schedule
 
     function handleEnrollClick(e){
-        axios.post(`http://54.221.48.20:5001/api/enrollment/${JSON.parse(window.sessionStorage.getItem('current-student')).UserID}`,{data:selectionModel} ).then(res=>{
+        axios.post(`3.87.187.44:5001/api/enrollment/${JSON.parse(window.sessionStorage.getItem('current-student')).UserID}`,{data:selectionModel} ).then(res=>{
           if(res.data.hasOwnProperty("CRN")){
             alert("Student: " + JSON.parse(window.sessionStorage.getItem('current-student')).UserID + " registered for class:" +res.data.CRN)
           }

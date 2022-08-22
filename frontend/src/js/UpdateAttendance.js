@@ -17,7 +17,7 @@ var navigate = useNavigate()
    }, [attendance])
    
   useEffect(async() => {
-    await axios.get(`http://54.221.48.20:5001/api/attendance/${JSON.parse(window.sessionStorage.getItem('curr-class'))}/${JSON.parse(window.sessionStorage.getItem('current-student')).UserID}`).then(res=>{
+    await axios.get(`3.87.187.44:5001/api/attendance/${JSON.parse(window.sessionStorage.getItem('curr-class'))}/${JSON.parse(window.sessionStorage.getItem('current-student')).UserID}`).then(res=>{
       setAttendance({Present:res.data.Present, Absent:res.data.Absent})
       console.log(attendance)
     })
@@ -29,7 +29,7 @@ var navigate = useNavigate()
   }, [attendance]);
 
   async function onClick(){
-await axios.post('http://54.221.48.20:5001/api/attendance',{Student_ID:JSON.parse(window.sessionStorage.getItem('current-student')).UserID, CRN:JSON.parse(window.sessionStorage.getItem('curr-class')), Attendance : attendance} ).then(res=>{
+await axios.post('3.87.187.44:5001/api/attendance',{Student_ID:JSON.parse(window.sessionStorage.getItem('current-student')).UserID, CRN:JSON.parse(window.sessionStorage.getItem('curr-class')), Attendance : attendance} ).then(res=>{
   console.log(res.data)
 })
 navigate("/faculty-class/faculty-schedule")

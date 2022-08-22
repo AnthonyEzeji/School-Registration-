@@ -24,7 +24,7 @@ function Courses() {
       const [selectionModel, setSelectionModel] = useState([]);
     const [courses, setCourses] = useState([{Course_ID:"",Course_Name:"",Major:"",_id:""}])
    useEffect(() => {
-    axios.get("http://54.221.48.20:5001/api/courses").then(res=>{
+    axios.get("3.87.187.44:5001/api/courses").then(res=>{
         setCourses(res.data.map((doc)=>doc))
     })
    }, [])
@@ -52,12 +52,12 @@ function Courses() {
       setMajor(e.target.value);
     };
     async function onClick(){
-      await axios.post('http://54.221.48.20:5001/api/courses',{courseName,courseID,credit,major,department}).then(res=>{
+      await axios.post('3.87.187.44:5001/api/courses',{courseName,courseID,credit,major,department}).then(res=>{
         console.log(res.data)
       })
     }
     async function onDeleteClick(){
-      await axios.delete('http://54.221.48.20:5001/api/courses',{data:selectionModel}).then(res=>{
+      await axios.delete('3.87.187.44:5001/api/courses',{data:selectionModel}).then(res=>{
         console.log(res.data)
         alert(res.data + " has been deleted from the course catalog by admin:" + JSON.parse(window.sessionStorage.getItem('session')).user.FirstName + ", " + JSON.parse(window.sessionStorage.getItem('session')).user.LastName)
       })

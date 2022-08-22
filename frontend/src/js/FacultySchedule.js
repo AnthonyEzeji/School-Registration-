@@ -13,7 +13,7 @@ navigate(`/faculty-class/faculty-schedule`)
   }
   const [classes, setClasses] = useState([])
     useEffect( async () => {
-  await axios.get(`http://54.221.48.20:5001/api/faculty-class/${JSON.parse(window.sessionStorage.getItem('current-faculty')).UserID}`).then(res=>{
+  await axios.get(`3.87.187.44:5001/api/faculty-class/${JSON.parse(window.sessionStorage.getItem('current-faculty')).UserID}`).then(res=>{
     console.log(res.data)
     setClasses(res.data)
   })

@@ -9,14 +9,14 @@ import DrawerMenu from './DrawerMenu';
 function SeeClass() {
  
 useEffect(async () => {
-await axios.get(`http://54.221.48.20:5001/api/attendance/${parseInt(JSON.parse(window.sessionStorage.getItem('curr-class')))}`).then(res=>{
+await axios.get(`3.87.187.44:5001/api/attendance/${parseInt(JSON.parse(window.sessionStorage.getItem('curr-class')))}`).then(res=>{
   console.log(res.data)
 })
 }, [])
 
   var navigate = useNavigate()
     async function handleGradeClick(e,cellValues){
-      await axios.get(`http://54.221.48.20:5001/api/faculty-class/update-grade/${cellValues.id}`).then(res=>{
+      await axios.get(`3.87.187.44:5001/api/faculty-class/update-grade/${cellValues.id}`).then(res=>{
                
         window.sessionStorage.setItem('current-student', JSON.stringify(res.data))
         
@@ -25,7 +25,7 @@ await axios.get(`http://54.221.48.20:5001/api/attendance/${parseInt(JSON.parse(w
      
     }
     async function handleAttendanceClick(e,cellValues){
-      await axios.get(`http://54.221.48.20:5001/api/faculty-class/update-grade/${cellValues.id}`).then(res=>{
+      await axios.get(`3.87.187.44:5001/api/faculty-class/update-grade/${cellValues.id}`).then(res=>{
                
         window.sessionStorage.setItem('current-student', JSON.stringify(res.data))
         
@@ -83,7 +83,7 @@ await axios.get(`http://54.221.48.20:5001/api/attendance/${parseInt(JSON.parse(w
       console.log(selectionModel)
       }, [selectionModel])
     useEffect(async() => {
-    await axios.get(`http://54.221.48.20:5001/api/faculty-class/faculty-schedule/${window.sessionStorage.getItem('curr-class')}`).then(res=>{
+    await axios.get(`3.87.187.44:5001/api/faculty-class/faculty-schedule/${window.sessionStorage.getItem('curr-class')}`).then(res=>{
         console.log(res)
         setclassStudents(res.data)
     })
